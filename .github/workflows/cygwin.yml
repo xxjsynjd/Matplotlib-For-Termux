@@ -78,11 +78,11 @@ jobs:
       - name: Fix line endings
         run: git config --global core.autocrlf input
 
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
         with:
           fetch-depth: 0
 
-      - uses: cygwin/cygwin-install-action@v4
+      - uses: cygwin/cygwin-install-action@v7
         with:
           packages: >-
             ccache gcc-g++ gdb git graphviz libcairo-devel libffi-devel
@@ -138,21 +138,21 @@ jobs:
         # FreeType build fails with bash, succeeds with dash
 
       - name: Cache pip
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: C:\cygwin\home\runneradmin\.cache\pip
           key: Cygwin-py3.${{ matrix.python-minor-version }}-pip-${{ hashFiles('requirements/*/*.txt') }}
           restore-keys: ${{ matrix.os }}-py3.${{ matrix.python-minor-version }}-pip-
 
       - name: Cache ccache
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: C:\cygwin\home\runneradmin\.ccache
           key: Cygwin-py3.${{ matrix.python-minor-version }}-ccache-${{ hashFiles('src/*') }}
           restore-keys: Cygwin-py3.${{ matrix.python-minor-version }}-ccache-
 
       - name: Cache Matplotlib
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: |
             C:\cygwin\home\runneradmin\.cache\matplotlib
