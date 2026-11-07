@@ -1,0 +1,1023 @@
+[
+  {
+    "name": "agg",
+    "id": "ee8296c@@agg@sta",
+    "type": "static library",
+    "defined_in": "/data/data/com.termux/files/home/matplotlib/extern/agg24-svn/meson.build",
+    "filename": [
+      "/data/data/com.termux/files/home/matplotlib/build/extern/agg24-svn/libagg.a"
+    ],
+    "build_by_default": true,
+    "target_sources": [
+      {
+        "language": "cpp",
+        "machine": "host",
+        "compiler": [
+          "/data/data/com.termux/files/usr/bin/ccache",
+          "c++"
+        ],
+        "parameters": [
+          "-I/data/data/com.termux/files/home/matplotlib/build/extern/agg24-svn/libagg.a.p",
+          "-I/data/data/com.termux/files/home/matplotlib/build/extern/agg24-svn",
+          "-I/data/data/com.termux/files/home/matplotlib/extern/agg24-svn",
+          "-I/data/data/com.termux/files/home/matplotlib/extern/agg24-svn/include",
+          "-fvisibility=hidden",
+          "-fvisibility-inlines-hidden",
+          "-flto",
+          "-fdiagnostics-color=always",
+          "-DNDEBUG",
+          "-D_FILE_OFFSET_BITS=64",
+          "-Wall",
+          "-Winvalid-pch",
+          "-std=c++17",
+          "-O3",
+          "-fPIC"
+        ],
+        "sources": [
+          "/data/data/com.termux/files/home/matplotlib/extern/agg24-svn/src/agg_bezier_arc.cpp",
+          "/data/data/com.termux/files/home/matplotlib/extern/agg24-svn/src/agg_curves.cpp",
+          "/data/data/com.termux/files/home/matplotlib/extern/agg24-svn/src/agg_image_filters.cpp",
+          "/data/data/com.termux/files/home/matplotlib/extern/agg24-svn/src/agg_trans_affine.cpp",
+          "/data/data/com.termux/files/home/matplotlib/extern/agg24-svn/src/agg_vcgen_contour.cpp",
+          "/data/data/com.termux/files/home/matplotlib/extern/agg24-svn/src/agg_vcgen_dash.cpp",
+          "/data/data/com.termux/files/home/matplotlib/extern/agg24-svn/src/agg_vcgen_stroke.cpp",
+          "/data/data/com.termux/files/home/matplotlib/extern/agg24-svn/src/agg_vpgen_segmentator.cpp"
+        ],
+        "generated_sources": [],
+        "unity_sources": []
+      },
+      {
+        "linker": [
+          "llvm-ar"
+        ],
+        "parameters": [
+          "csrDT"
+        ]
+      }
+    ],
+    "extra_files": [],
+    "subproject": null,
+    "dependencies": [],
+    "depends": [],
+    "installed": false
+  },
+  {
+    "name": "ttconv",
+    "id": "075e2bd@@ttconv@sta",
+    "type": "static library",
+    "defined_in": "/data/data/com.termux/files/home/matplotlib/extern/ttconv/meson.build",
+    "filename": [
+      "/data/data/com.termux/files/home/matplotlib/build/extern/ttconv/libttconv.a"
+    ],
+    "build_by_default": true,
+    "target_sources": [
+      {
+        "language": "cpp",
+        "machine": "host",
+        "compiler": [
+          "/data/data/com.termux/files/usr/bin/ccache",
+          "c++"
+        ],
+        "parameters": [
+          "-I/data/data/com.termux/files/home/matplotlib/build/extern/ttconv/libttconv.a.p",
+          "-I/data/data/com.termux/files/home/matplotlib/build/extern/ttconv",
+          "-I/data/data/com.termux/files/home/matplotlib/extern/ttconv",
+          "-I/data/data/com.termux/files/usr/include/python3.14",
+          "-fvisibility=hidden",
+          "-fvisibility-inlines-hidden",
+          "-flto",
+          "-fdiagnostics-color=always",
+          "-DNDEBUG",
+          "-D_FILE_OFFSET_BITS=64",
+          "-Wall",
+          "-Winvalid-pch",
+          "-std=c++17",
+          "-O3",
+          "-fPIC"
+        ],
+        "sources": [
+          "/data/data/com.termux/files/home/matplotlib/extern/ttconv/pprdrv_tt2.cpp",
+          "/data/data/com.termux/files/home/matplotlib/extern/ttconv/pprdrv_tt.cpp",
+          "/data/data/com.termux/files/home/matplotlib/extern/ttconv/ttutil.cpp"
+        ],
+        "generated_sources": [],
+        "unity_sources": []
+      },
+      {
+        "linker": [
+          "llvm-ar"
+        ],
+        "parameters": [
+          "csrDT"
+        ]
+      }
+    ],
+    "extra_files": [],
+    "subproject": null,
+    "dependencies": [
+      "python-3.14"
+    ],
+    "depends": [],
+    "installed": false
+  },
+  {
+    "name": "freetype",
+    "id": "e8e5988@@freetype@sta",
+    "type": "static library",
+    "defined_in": "/data/data/com.termux/files/home/matplotlib/subprojects/freetype-2.6.1/meson.build",
+    "filename": [
+      "/data/data/com.termux/files/home/matplotlib/build/subprojects/freetype-2.6.1/libfreetype.a"
+    ],
+    "build_by_default": true,
+    "target_sources": [
+      {
+        "language": "c",
+        "machine": "host",
+        "compiler": [
+          "/data/data/com.termux/files/usr/bin/ccache",
+          "cc"
+        ],
+        "parameters": [
+          "-I/data/data/com.termux/files/home/matplotlib/build/subprojects/freetype-2.6.1/libfreetype.a.p",
+          "-I/data/data/com.termux/files/home/matplotlib/build/subprojects/freetype-2.6.1",
+          "-I/data/data/com.termux/files/home/matplotlib/subprojects/freetype-2.6.1",
+          "-I/data/data/com.termux/files/home/matplotlib/subprojects/freetype-2.6.1/include",
+          "-fvisibility=hidden",
+          "-flto",
+          "-fdiagnostics-color=always",
+          "-DNDEBUG",
+          "-D_FILE_OFFSET_BITS=64",
+          "-Wall",
+          "-Winvalid-pch",
+          "-O3",
+          "-fPIC",
+          "-DFT2_BUILD_LIBRARY",
+          "-DFT_CONFIG_CONFIG_H=<ftconfig.h>",
+          "-DFT_CONFIG_OPTIONS_H=<ftoption.h>"
+        ],
+        "sources": [
+          "/data/data/com.termux/files/home/matplotlib/subprojects/freetype-2.6.1/src/autofit/autofit.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/freetype-2.6.1/src/base/ftbase.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/freetype-2.6.1/src/base/ftbbox.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/freetype-2.6.1/src/base/ftbdf.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/freetype-2.6.1/src/base/ftbitmap.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/freetype-2.6.1/src/base/ftcid.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/freetype-2.6.1/src/base/ftfntfmt.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/freetype-2.6.1/src/base/ftfstype.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/freetype-2.6.1/src/base/ftgasp.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/freetype-2.6.1/src/base/ftglyph.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/freetype-2.6.1/src/base/ftgxval.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/freetype-2.6.1/src/base/ftinit.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/freetype-2.6.1/src/base/ftlcdfil.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/freetype-2.6.1/src/base/ftmm.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/freetype-2.6.1/src/base/ftotval.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/freetype-2.6.1/src/base/ftpatent.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/freetype-2.6.1/src/base/ftpfr.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/freetype-2.6.1/src/base/ftstroke.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/freetype-2.6.1/src/base/ftsynth.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/freetype-2.6.1/src/base/ftsystem.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/freetype-2.6.1/src/base/fttype1.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/freetype-2.6.1/src/base/ftwinfnt.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/freetype-2.6.1/src/bdf/bdf.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/freetype-2.6.1/src/bzip2/ftbzip2.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/freetype-2.6.1/src/cache/ftcache.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/freetype-2.6.1/src/cff/cff.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/freetype-2.6.1/src/cid/type1cid.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/freetype-2.6.1/src/gzip/ftgzip.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/freetype-2.6.1/src/lzw/ftlzw.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/freetype-2.6.1/src/pcf/pcf.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/freetype-2.6.1/src/pfr/pfr.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/freetype-2.6.1/src/psaux/psaux.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/freetype-2.6.1/src/pshinter/pshinter.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/freetype-2.6.1/src/psnames/psnames.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/freetype-2.6.1/src/raster/raster.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/freetype-2.6.1/src/sfnt/sfnt.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/freetype-2.6.1/src/smooth/smooth.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/freetype-2.6.1/src/truetype/truetype.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/freetype-2.6.1/src/type1/type1.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/freetype-2.6.1/src/type42/type42.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/freetype-2.6.1/src/winfonts/winfnt.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/freetype-2.6.1/src/base/ftdebug.c"
+        ],
+        "generated_sources": [],
+        "unity_sources": []
+      },
+      {
+        "linker": [
+          "llvm-ar"
+        ],
+        "parameters": [
+          "csrDT"
+        ]
+      }
+    ],
+    "extra_files": [],
+    "subproject": "freetype-2.6.1",
+    "dependencies": [],
+    "depends": [],
+    "installed": false
+  },
+  {
+    "name": "qhull_r",
+    "id": "3d2dc27@@qhull_r@sta",
+    "type": "static library",
+    "defined_in": "/data/data/com.termux/files/home/matplotlib/subprojects/qhull-8.0.2/meson.build",
+    "filename": [
+      "/data/data/com.termux/files/home/matplotlib/build/subprojects/qhull-8.0.2/libqhull_r.a"
+    ],
+    "build_by_default": true,
+    "target_sources": [
+      {
+        "language": "c",
+        "machine": "host",
+        "compiler": [
+          "/data/data/com.termux/files/usr/bin/ccache",
+          "cc"
+        ],
+        "parameters": [
+          "-I/data/data/com.termux/files/home/matplotlib/build/subprojects/qhull-8.0.2/libqhull_r.a.p",
+          "-I/data/data/com.termux/files/home/matplotlib/build/subprojects/qhull-8.0.2",
+          "-I/data/data/com.termux/files/home/matplotlib/subprojects/qhull-8.0.2",
+          "-fvisibility=hidden",
+          "-flto",
+          "-fdiagnostics-color=always",
+          "-DNDEBUG",
+          "-D_FILE_OFFSET_BITS=64",
+          "-Wall",
+          "-Winvalid-pch",
+          "-O3",
+          "-fPIC"
+        ],
+        "sources": [
+          "/data/data/com.termux/files/home/matplotlib/subprojects/qhull-8.0.2/src/libqhull_r/geom2_r.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/qhull-8.0.2/src/libqhull_r/geom_r.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/qhull-8.0.2/src/libqhull_r/global_r.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/qhull-8.0.2/src/libqhull_r/io_r.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/qhull-8.0.2/src/libqhull_r/libqhull_r.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/qhull-8.0.2/src/libqhull_r/mem_r.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/qhull-8.0.2/src/libqhull_r/merge_r.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/qhull-8.0.2/src/libqhull_r/poly2_r.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/qhull-8.0.2/src/libqhull_r/poly_r.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/qhull-8.0.2/src/libqhull_r/qset_r.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/qhull-8.0.2/src/libqhull_r/random_r.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/qhull-8.0.2/src/libqhull_r/rboxlib_r.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/qhull-8.0.2/src/libqhull_r/stat_r.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/qhull-8.0.2/src/libqhull_r/usermem_r.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/qhull-8.0.2/src/libqhull_r/userprintf_rbox_r.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/qhull-8.0.2/src/libqhull_r/userprintf_r.c",
+          "/data/data/com.termux/files/home/matplotlib/subprojects/qhull-8.0.2/src/libqhull_r/user_r.c"
+        ],
+        "generated_sources": [],
+        "unity_sources": []
+      },
+      {
+        "linker": [
+          "llvm-ar"
+        ],
+        "parameters": [
+          "csrDT"
+        ]
+      }
+    ],
+    "extra_files": [],
+    "subproject": "qhull",
+    "dependencies": [],
+    "depends": [],
+    "installed": false
+  },
+  {
+    "name": "_backend_agg.cpython-314-aarch64-linux-android",
+    "id": "25a6634@@_backend_agg.cpython-314-aarch64-linux-android.so@sha",
+    "type": "shared module",
+    "defined_in": "/data/data/com.termux/files/home/matplotlib/src/meson.build",
+    "filename": [
+      "/data/data/com.termux/files/home/matplotlib/build/src/_backend_agg.cpython-314-aarch64-linux-android.so"
+    ],
+    "build_by_default": true,
+    "target_sources": [
+      {
+        "language": "cpp",
+        "machine": "host",
+        "compiler": [
+          "/data/data/com.termux/files/usr/bin/ccache",
+          "c++"
+        ],
+        "parameters": [
+          "-I/data/data/com.termux/files/home/matplotlib/build/src/_backend_agg.cpython-314-aarch64-linux-android.so.p",
+          "-I/data/data/com.termux/files/home/matplotlib/build/src",
+          "-I/data/data/com.termux/files/home/matplotlib/src",
+          "-I/data/data/com.termux/files/home/matplotlib/extern/agg24-svn/include",
+          "-I/data/data/com.termux/files/usr/lib/python3.14/site-packages/numpy/_core/include",
+          "-I/data/data/com.termux/files/home/matplotlib/subprojects/freetype-2.6.1/include",
+          "-I/data/data/com.termux/files/usr/include/python3.14",
+          "-fvisibility=hidden",
+          "-fvisibility-inlines-hidden",
+          "-flto",
+          "-fdiagnostics-color=always",
+          "-DNDEBUG",
+          "-D_FILE_OFFSET_BITS=64",
+          "-Wall",
+          "-Winvalid-pch",
+          "-std=c++17",
+          "-O3",
+          "-fPIC",
+          "-DNPY_NO_DEPRECATED_API=NPY_1_7_API_VERSION",
+          "-D__STDC_FORMAT_MACROS=1",
+          "-DPY_ARRAY_UNIQUE_SYMBOL=MPL__backend_agg_ARRAY_API"
+        ],
+        "sources": [
+          "/data/data/com.termux/files/home/matplotlib/src/py_converters.cpp",
+          "/data/data/com.termux/files/home/matplotlib/src/_backend_agg.cpp",
+          "/data/data/com.termux/files/home/matplotlib/src/_backend_agg_wrapper.cpp"
+        ],
+        "generated_sources": [],
+        "unity_sources": []
+      },
+      {
+        "linker": [
+          "c++"
+        ],
+        "parameters": [
+          "-flto",
+          "-Wl,--as-needed",
+          "-Wl,--allow-shlib-undefined",
+          "-Wl,-O1",
+          "-shared",
+          "-fPIC",
+          "-Wl,--start-group",
+          "-Wl,--start-group",
+          "extern/agg24-svn/libagg.a",
+          "subprojects/freetype-2.6.1/libfreetype.a",
+          "/data/data/com.termux/files/usr/lib/libpython3.14.so",
+          "-Wl,--end-group",
+          "-Wl,--end-group"
+        ]
+      }
+    ],
+    "extra_files": [],
+    "subproject": null,
+    "dependencies": [
+      "dep143393082097057118686479739600880069773",
+      "python-3.14",
+      "python-3.14"
+    ],
+    "depends": [],
+    "win_subsystem": "console",
+    "installed": true,
+    "install_filename": [
+      "/usr/local/lib/python3.14/site-packages/matplotlib/backends/_backend_agg.cpython-314-aarch64-linux-android.so"
+    ]
+  },
+  {
+    "name": "_c_internal_utils.cpython-314-aarch64-linux-android",
+    "id": "25a6634@@_c_internal_utils.cpython-314-aarch64-linux-android.so@sha",
+    "type": "shared module",
+    "defined_in": "/data/data/com.termux/files/home/matplotlib/src/meson.build",
+    "filename": [
+      "/data/data/com.termux/files/home/matplotlib/build/src/_c_internal_utils.cpython-314-aarch64-linux-android.so"
+    ],
+    "build_by_default": true,
+    "target_sources": [
+      {
+        "language": "cpp",
+        "machine": "host",
+        "compiler": [
+          "/data/data/com.termux/files/usr/bin/ccache",
+          "c++"
+        ],
+        "parameters": [
+          "-I/data/data/com.termux/files/home/matplotlib/build/src/_c_internal_utils.cpython-314-aarch64-linux-android.so.p",
+          "-I/data/data/com.termux/files/home/matplotlib/build/src",
+          "-I/data/data/com.termux/files/home/matplotlib/src",
+          "-I/data/data/com.termux/files/usr/include/python3.11",
+          "-I/data/data/com.termux/files/usr/lib/python3.11/site-packages/pybind11/include",
+          "-I/data/data/com.termux/files/usr/include/python3.14",
+          "-fvisibility=hidden",
+          "-fvisibility-inlines-hidden",
+          "-flto",
+          "-fdiagnostics-color=always",
+          "-DNDEBUG",
+          "-D_FILE_OFFSET_BITS=64",
+          "-Wall",
+          "-Winvalid-pch",
+          "-std=c++17",
+          "-O3",
+          "-fPIC",
+          "-DPY_ARRAY_UNIQUE_SYMBOL=MPL__c_internal_utils_ARRAY_API"
+        ],
+        "sources": [
+          "/data/data/com.termux/files/home/matplotlib/src/_c_internal_utils.cpp"
+        ],
+        "generated_sources": [],
+        "unity_sources": []
+      },
+      {
+        "linker": [
+          "c++"
+        ],
+        "parameters": [
+          "-flto",
+          "-Wl,--as-needed",
+          "-Wl,--allow-shlib-undefined",
+          "-Wl,-O1",
+          "-shared",
+          "-fPIC",
+          "/data/data/com.termux/files/usr/lib/libpython3.14.so"
+        ]
+      }
+    ],
+    "extra_files": [],
+    "subproject": null,
+    "dependencies": [
+      "pybind11",
+      "dl",
+      "python-3.14"
+    ],
+    "depends": [],
+    "win_subsystem": "console",
+    "installed": true,
+    "install_filename": [
+      "/usr/local/lib/python3.14/site-packages/matplotlib/_c_internal_utils.cpython-314-aarch64-linux-android.so"
+    ]
+  },
+  {
+    "name": "ft2font.cpython-314-aarch64-linux-android",
+    "id": "25a6634@@ft2font.cpython-314-aarch64-linux-android.so@sha",
+    "type": "shared module",
+    "defined_in": "/data/data/com.termux/files/home/matplotlib/src/meson.build",
+    "filename": [
+      "/data/data/com.termux/files/home/matplotlib/build/src/ft2font.cpython-314-aarch64-linux-android.so"
+    ],
+    "build_by_default": true,
+    "target_sources": [
+      {
+        "language": "cpp",
+        "machine": "host",
+        "compiler": [
+          "/data/data/com.termux/files/usr/bin/ccache",
+          "c++"
+        ],
+        "parameters": [
+          "-I/data/data/com.termux/files/home/matplotlib/build/src/ft2font.cpython-314-aarch64-linux-android.so.p",
+          "-I/data/data/com.termux/files/home/matplotlib/build/src",
+          "-I/data/data/com.termux/files/home/matplotlib/src",
+          "-I/data/data/com.termux/files/home/matplotlib/subprojects/freetype-2.6.1/include",
+          "-I/data/data/com.termux/files/usr/lib/python3.14/site-packages/numpy/_core/include",
+          "-I/data/data/com.termux/files/home/matplotlib/extern/agg24-svn/include",
+          "-I/data/data/com.termux/files/usr/include/python3.14",
+          "-fvisibility=hidden",
+          "-fvisibility-inlines-hidden",
+          "-flto",
+          "-fdiagnostics-color=always",
+          "-DNDEBUG",
+          "-D_FILE_OFFSET_BITS=64",
+          "-Wall",
+          "-Winvalid-pch",
+          "-std=c++17",
+          "-O3",
+          "-fPIC",
+          "-DNPY_NO_DEPRECATED_API=NPY_1_7_API_VERSION",
+          "-D__STDC_FORMAT_MACROS=1",
+          "-DPY_ARRAY_UNIQUE_SYMBOL=MPL_ft2font_ARRAY_API",
+          "-DFREETYPE_BUILD_TYPE=\"local\""
+        ],
+        "sources": [
+          "/data/data/com.termux/files/home/matplotlib/src/ft2font.cpp",
+          "/data/data/com.termux/files/home/matplotlib/src/ft2font_wrapper.cpp",
+          "/data/data/com.termux/files/home/matplotlib/src/py_converters.cpp"
+        ],
+        "generated_sources": [],
+        "unity_sources": []
+      },
+      {
+        "linker": [
+          "c++"
+        ],
+        "parameters": [
+          "-flto",
+          "-Wl,--as-needed",
+          "-Wl,--allow-shlib-undefined",
+          "-Wl,-O1",
+          "-shared",
+          "-fPIC",
+          "-Wl,--start-group",
+          "-Wl,--start-group",
+          "subprojects/freetype-2.6.1/libfreetype.a",
+          "/data/data/com.termux/files/usr/lib/libpython3.14.so",
+          "-Wl,--end-group",
+          "-Wl,--end-group"
+        ]
+      }
+    ],
+    "extra_files": [],
+    "subproject": null,
+    "dependencies": [
+      "dep143393082097057118686479739600880069773",
+      "python-3.14",
+      "python-3.14"
+    ],
+    "depends": [],
+    "win_subsystem": "console",
+    "installed": true,
+    "install_filename": [
+      "/usr/local/lib/python3.14/site-packages/matplotlib/ft2font.cpython-314-aarch64-linux-android.so"
+    ]
+  },
+  {
+    "name": "_image.cpython-314-aarch64-linux-android",
+    "id": "25a6634@@_image.cpython-314-aarch64-linux-android.so@sha",
+    "type": "shared module",
+    "defined_in": "/data/data/com.termux/files/home/matplotlib/src/meson.build",
+    "filename": [
+      "/data/data/com.termux/files/home/matplotlib/build/src/_image.cpython-314-aarch64-linux-android.so"
+    ],
+    "build_by_default": true,
+    "target_sources": [
+      {
+        "language": "cpp",
+        "machine": "host",
+        "compiler": [
+          "/data/data/com.termux/files/usr/bin/ccache",
+          "c++"
+        ],
+        "parameters": [
+          "-I/data/data/com.termux/files/home/matplotlib/build/src/_image.cpython-314-aarch64-linux-android.so.p",
+          "-I/data/data/com.termux/files/home/matplotlib/build/src",
+          "-I/data/data/com.termux/files/home/matplotlib/src",
+          "-I/data/data/com.termux/files/home/matplotlib/extern/agg24-svn/include",
+          "-I/data/data/com.termux/files/usr/include/python3.11",
+          "-I/data/data/com.termux/files/usr/lib/python3.11/site-packages/pybind11/include",
+          "-I/data/data/com.termux/files/usr/include/python3.14",
+          "-fvisibility=hidden",
+          "-fvisibility-inlines-hidden",
+          "-flto",
+          "-fdiagnostics-color=always",
+          "-DNDEBUG",
+          "-D_FILE_OFFSET_BITS=64",
+          "-Wall",
+          "-Winvalid-pch",
+          "-std=c++17",
+          "-O3",
+          "-fPIC",
+          "-DPY_ARRAY_UNIQUE_SYMBOL=MPL__image_ARRAY_API"
+        ],
+        "sources": [
+          "/data/data/com.termux/files/home/matplotlib/src/_image_wrapper.cpp",
+          "/data/data/com.termux/files/home/matplotlib/src/py_converters_11.cpp"
+        ],
+        "generated_sources": [],
+        "unity_sources": []
+      },
+      {
+        "linker": [
+          "c++"
+        ],
+        "parameters": [
+          "-flto",
+          "-Wl,--as-needed",
+          "-Wl,--allow-shlib-undefined",
+          "-Wl,-O1",
+          "-shared",
+          "-fPIC",
+          "-Wl,--start-group",
+          "-Wl,--start-group",
+          "extern/agg24-svn/libagg.a",
+          "/data/data/com.termux/files/usr/lib/libpython3.14.so",
+          "-Wl,--end-group",
+          "-Wl,--end-group"
+        ]
+      }
+    ],
+    "extra_files": [],
+    "subproject": null,
+    "dependencies": [
+      "pybind11",
+      "python-3.14"
+    ],
+    "depends": [],
+    "win_subsystem": "console",
+    "installed": true,
+    "install_filename": [
+      "/usr/local/lib/python3.14/site-packages/matplotlib/_image.cpython-314-aarch64-linux-android.so"
+    ]
+  },
+  {
+    "name": "_path.cpython-314-aarch64-linux-android",
+    "id": "25a6634@@_path.cpython-314-aarch64-linux-android.so@sha",
+    "type": "shared module",
+    "defined_in": "/data/data/com.termux/files/home/matplotlib/src/meson.build",
+    "filename": [
+      "/data/data/com.termux/files/home/matplotlib/build/src/_path.cpython-314-aarch64-linux-android.so"
+    ],
+    "build_by_default": true,
+    "target_sources": [
+      {
+        "language": "cpp",
+        "machine": "host",
+        "compiler": [
+          "/data/data/com.termux/files/usr/bin/ccache",
+          "c++"
+        ],
+        "parameters": [
+          "-I/data/data/com.termux/files/home/matplotlib/build/src/_path.cpython-314-aarch64-linux-android.so.p",
+          "-I/data/data/com.termux/files/home/matplotlib/build/src",
+          "-I/data/data/com.termux/files/home/matplotlib/src",
+          "-I/data/data/com.termux/files/usr/lib/python3.14/site-packages/numpy/_core/include",
+          "-I/data/data/com.termux/files/home/matplotlib/extern/agg24-svn/include",
+          "-I/data/data/com.termux/files/usr/include/python3.14",
+          "-I/data/data/com.termux/files/usr/include/python3.11",
+          "-I/data/data/com.termux/files/usr/lib/python3.11/site-packages/pybind11/include",
+          "-fvisibility=hidden",
+          "-fvisibility-inlines-hidden",
+          "-flto",
+          "-fdiagnostics-color=always",
+          "-DNDEBUG",
+          "-D_FILE_OFFSET_BITS=64",
+          "-Wall",
+          "-Winvalid-pch",
+          "-std=c++17",
+          "-O3",
+          "-fPIC",
+          "-DNPY_NO_DEPRECATED_API=NPY_1_7_API_VERSION",
+          "-D__STDC_FORMAT_MACROS=1",
+          "-DPY_ARRAY_UNIQUE_SYMBOL=MPL__path_ARRAY_API"
+        ],
+        "sources": [
+          "/data/data/com.termux/files/home/matplotlib/src/py_converters.cpp",
+          "/data/data/com.termux/files/home/matplotlib/src/py_converters_11.cpp",
+          "/data/data/com.termux/files/home/matplotlib/src/_path_wrapper.cpp"
+        ],
+        "generated_sources": [],
+        "unity_sources": []
+      },
+      {
+        "linker": [
+          "c++"
+        ],
+        "parameters": [
+          "-flto",
+          "-Wl,--as-needed",
+          "-Wl,--allow-shlib-undefined",
+          "-Wl,-O1",
+          "-shared",
+          "-fPIC",
+          "-Wl,--start-group",
+          "-Wl,--start-group",
+          "extern/agg24-svn/libagg.a",
+          "/data/data/com.termux/files/usr/lib/libpython3.14.so",
+          "-Wl,--end-group",
+          "-Wl,--end-group"
+        ]
+      }
+    ],
+    "extra_files": [],
+    "subproject": null,
+    "dependencies": [
+      "dep143393082097057118686479739600880069773",
+      "python-3.14",
+      "pybind11",
+      "python-3.14"
+    ],
+    "depends": [],
+    "win_subsystem": "console",
+    "installed": true,
+    "install_filename": [
+      "/usr/local/lib/python3.14/site-packages/matplotlib/_path.cpython-314-aarch64-linux-android.so"
+    ]
+  },
+  {
+    "name": "_qhull.cpython-314-aarch64-linux-android",
+    "id": "25a6634@@_qhull.cpython-314-aarch64-linux-android.so@sha",
+    "type": "shared module",
+    "defined_in": "/data/data/com.termux/files/home/matplotlib/src/meson.build",
+    "filename": [
+      "/data/data/com.termux/files/home/matplotlib/build/src/_qhull.cpython-314-aarch64-linux-android.so"
+    ],
+    "build_by_default": true,
+    "target_sources": [
+      {
+        "language": "cpp",
+        "machine": "host",
+        "compiler": [
+          "/data/data/com.termux/files/usr/bin/ccache",
+          "c++"
+        ],
+        "parameters": [
+          "-I/data/data/com.termux/files/home/matplotlib/build/src/_qhull.cpython-314-aarch64-linux-android.so.p",
+          "-I/data/data/com.termux/files/home/matplotlib/build/src",
+          "-I/data/data/com.termux/files/home/matplotlib/src",
+          "-I/data/data/com.termux/files/home/matplotlib/subprojects/qhull-8.0.2/src",
+          "-I/data/data/com.termux/files/usr/include/python3.11",
+          "-I/data/data/com.termux/files/usr/lib/python3.11/site-packages/pybind11/include",
+          "-I/data/data/com.termux/files/usr/include/python3.14",
+          "-fvisibility=hidden",
+          "-fvisibility-inlines-hidden",
+          "-flto",
+          "-fdiagnostics-color=always",
+          "-DNDEBUG",
+          "-D_FILE_OFFSET_BITS=64",
+          "-Wall",
+          "-Winvalid-pch",
+          "-std=c++17",
+          "-O3",
+          "-fPIC",
+          "-DPY_ARRAY_UNIQUE_SYMBOL=MPL__qhull_ARRAY_API",
+          "-DMPL_DEVNULL=/dev/null"
+        ],
+        "sources": [
+          "/data/data/com.termux/files/home/matplotlib/src/_qhull_wrapper.cpp"
+        ],
+        "generated_sources": [],
+        "unity_sources": []
+      },
+      {
+        "linker": [
+          "c++"
+        ],
+        "parameters": [
+          "-flto",
+          "-Wl,--as-needed",
+          "-Wl,--allow-shlib-undefined",
+          "-Wl,-O1",
+          "-shared",
+          "-fPIC",
+          "-Wl,--start-group",
+          "-Wl,--start-group",
+          "subprojects/qhull-8.0.2/libqhull_r.a",
+          "/data/data/com.termux/files/usr/lib/libpython3.14.so",
+          "-Wl,--end-group",
+          "-Wl,--end-group"
+        ]
+      }
+    ],
+    "extra_files": [],
+    "subproject": null,
+    "dependencies": [
+      "pybind11",
+      "python-3.14"
+    ],
+    "depends": [],
+    "win_subsystem": "console",
+    "installed": true,
+    "install_filename": [
+      "/usr/local/lib/python3.14/site-packages/matplotlib/_qhull.cpython-314-aarch64-linux-android.so"
+    ]
+  },
+  {
+    "name": "_tkagg.cpython-314-aarch64-linux-android",
+    "id": "25a6634@@_tkagg.cpython-314-aarch64-linux-android.so@sha",
+    "type": "shared module",
+    "defined_in": "/data/data/com.termux/files/home/matplotlib/src/meson.build",
+    "filename": [
+      "/data/data/com.termux/files/home/matplotlib/build/src/_tkagg.cpython-314-aarch64-linux-android.so"
+    ],
+    "build_by_default": true,
+    "target_sources": [
+      {
+        "language": "cpp",
+        "machine": "host",
+        "compiler": [
+          "/data/data/com.termux/files/usr/bin/ccache",
+          "c++"
+        ],
+        "parameters": [
+          "-I/data/data/com.termux/files/home/matplotlib/build/src/_tkagg.cpython-314-aarch64-linux-android.so.p",
+          "-I/data/data/com.termux/files/home/matplotlib/build/src",
+          "-I/data/data/com.termux/files/home/matplotlib/src",
+          "-I/data/data/com.termux/files/home/matplotlib/extern/agg24-svn/include",
+          "-I/data/data/com.termux/files/usr/include/python3.11",
+          "-I/data/data/com.termux/files/usr/lib/python3.11/site-packages/pybind11/include",
+          "-I/data/data/com.termux/files/usr/include/python3.14",
+          "-fvisibility=hidden",
+          "-fvisibility-inlines-hidden",
+          "-flto",
+          "-fdiagnostics-color=always",
+          "-DNDEBUG",
+          "-D_FILE_OFFSET_BITS=64",
+          "-Wall",
+          "-Winvalid-pch",
+          "-std=c++17",
+          "-O3",
+          "-fPIC",
+          "-DPY_ARRAY_UNIQUE_SYMBOL=MPL__tkagg_ARRAY_API"
+        ],
+        "sources": [
+          "/data/data/com.termux/files/home/matplotlib/src/_tkagg.cpp"
+        ],
+        "generated_sources": [],
+        "unity_sources": []
+      },
+      {
+        "linker": [
+          "c++"
+        ],
+        "parameters": [
+          "-flto",
+          "-Wl,--as-needed",
+          "-Wl,--allow-shlib-undefined",
+          "-Wl,-O1",
+          "-shared",
+          "-fPIC",
+          "/data/data/com.termux/files/usr/lib/libpython3.14.so"
+        ]
+      }
+    ],
+    "extra_files": [],
+    "subproject": null,
+    "dependencies": [
+      "pybind11",
+      "dl",
+      "python-3.14"
+    ],
+    "depends": [],
+    "win_subsystem": "console",
+    "installed": true,
+    "install_filename": [
+      "/usr/local/lib/python3.14/site-packages/matplotlib/backends/_tkagg.cpython-314-aarch64-linux-android.so"
+    ]
+  },
+  {
+    "name": "_tri.cpython-314-aarch64-linux-android",
+    "id": "25a6634@@_tri.cpython-314-aarch64-linux-android.so@sha",
+    "type": "shared module",
+    "defined_in": "/data/data/com.termux/files/home/matplotlib/src/meson.build",
+    "filename": [
+      "/data/data/com.termux/files/home/matplotlib/build/src/_tri.cpython-314-aarch64-linux-android.so"
+    ],
+    "build_by_default": true,
+    "target_sources": [
+      {
+        "language": "cpp",
+        "machine": "host",
+        "compiler": [
+          "/data/data/com.termux/files/usr/bin/ccache",
+          "c++"
+        ],
+        "parameters": [
+          "-I/data/data/com.termux/files/home/matplotlib/build/src/_tri.cpython-314-aarch64-linux-android.so.p",
+          "-I/data/data/com.termux/files/home/matplotlib/build/src",
+          "-I/data/data/com.termux/files/home/matplotlib/src",
+          "-I/data/data/com.termux/files/usr/include/python3.11",
+          "-I/data/data/com.termux/files/usr/lib/python3.11/site-packages/pybind11/include",
+          "-I/data/data/com.termux/files/usr/include/python3.14",
+          "-fvisibility=hidden",
+          "-fvisibility-inlines-hidden",
+          "-flto",
+          "-fdiagnostics-color=always",
+          "-DNDEBUG",
+          "-D_FILE_OFFSET_BITS=64",
+          "-Wall",
+          "-Winvalid-pch",
+          "-std=c++17",
+          "-O3",
+          "-fPIC",
+          "-DPY_ARRAY_UNIQUE_SYMBOL=MPL__tri_ARRAY_API"
+        ],
+        "sources": [
+          "/data/data/com.termux/files/home/matplotlib/src/tri/_tri.cpp",
+          "/data/data/com.termux/files/home/matplotlib/src/tri/_tri_wrapper.cpp"
+        ],
+        "generated_sources": [],
+        "unity_sources": []
+      },
+      {
+        "linker": [
+          "c++"
+        ],
+        "parameters": [
+          "-flto",
+          "-Wl,--as-needed",
+          "-Wl,--allow-shlib-undefined",
+          "-Wl,-O1",
+          "-shared",
+          "-fPIC",
+          "/data/data/com.termux/files/usr/lib/libpython3.14.so"
+        ]
+      }
+    ],
+    "extra_files": [],
+    "subproject": null,
+    "dependencies": [
+      "pybind11",
+      "python-3.14"
+    ],
+    "depends": [],
+    "win_subsystem": "console",
+    "installed": true,
+    "install_filename": [
+      "/usr/local/lib/python3.14/site-packages/matplotlib/_tri.cpython-314-aarch64-linux-android.so"
+    ]
+  },
+  {
+    "name": "_ttconv.cpython-314-aarch64-linux-android",
+    "id": "25a6634@@_ttconv.cpython-314-aarch64-linux-android.so@sha",
+    "type": "shared module",
+    "defined_in": "/data/data/com.termux/files/home/matplotlib/src/meson.build",
+    "filename": [
+      "/data/data/com.termux/files/home/matplotlib/build/src/_ttconv.cpython-314-aarch64-linux-android.so"
+    ],
+    "build_by_default": true,
+    "target_sources": [
+      {
+        "language": "cpp",
+        "machine": "host",
+        "compiler": [
+          "/data/data/com.termux/files/usr/bin/ccache",
+          "c++"
+        ],
+        "parameters": [
+          "-I/data/data/com.termux/files/home/matplotlib/build/src/_ttconv.cpython-314-aarch64-linux-android.so.p",
+          "-I/data/data/com.termux/files/home/matplotlib/build/src",
+          "-I/data/data/com.termux/files/home/matplotlib/src",
+          "-I/data/data/com.termux/files/home/matplotlib/build/extern/ttconv",
+          "-I/data/data/com.termux/files/home/matplotlib/extern/ttconv",
+          "-I/data/data/com.termux/files/usr/include/python3.11",
+          "-I/data/data/com.termux/files/usr/lib/python3.11/site-packages/pybind11/include",
+          "-I/data/data/com.termux/files/usr/include/python3.14",
+          "-fvisibility=hidden",
+          "-fvisibility-inlines-hidden",
+          "-flto",
+          "-fdiagnostics-color=always",
+          "-DNDEBUG",
+          "-D_FILE_OFFSET_BITS=64",
+          "-Wall",
+          "-Winvalid-pch",
+          "-std=c++17",
+          "-O3",
+          "-fPIC",
+          "-DPY_ARRAY_UNIQUE_SYMBOL=MPL__ttconv_ARRAY_API"
+        ],
+        "sources": [
+          "/data/data/com.termux/files/home/matplotlib/src/_ttconv.cpp"
+        ],
+        "generated_sources": [],
+        "unity_sources": []
+      },
+      {
+        "linker": [
+          "c++"
+        ],
+        "parameters": [
+          "-flto",
+          "-Wl,--as-needed",
+          "-Wl,--allow-shlib-undefined",
+          "-Wl,-O1",
+          "-shared",
+          "-fPIC",
+          "-Wl,--start-group",
+          "-Wl,--start-group",
+          "extern/ttconv/libttconv.a",
+          "/data/data/com.termux/files/usr/lib/libpython3.14.so",
+          "-Wl,--end-group",
+          "-Wl,--end-group"
+        ]
+      }
+    ],
+    "extra_files": [],
+    "subproject": null,
+    "dependencies": [
+      "pybind11",
+      "python-3.14"
+    ],
+    "depends": [],
+    "win_subsystem": "console",
+    "installed": true,
+    "install_filename": [
+      "/usr/local/lib/python3.14/site-packages/matplotlib/_ttconv.cpython-314-aarch64-linux-android.so"
+    ]
+  },
+  {
+    "name": "matplotlibrc",
+    "id": "d713a2c@@matplotlibrc@cus",
+    "type": "custom",
+    "defined_in": "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/mpl-data/meson.build",
+    "filename": [
+      "/data/data/com.termux/files/home/matplotlib/build/lib/matplotlib/mpl-data/matplotlibrc"
+    ],
+    "build_by_default": true,
+    "target_sources": [
+      {
+        "language": "unknown",
+        "compiler": [
+          "/data/data/com.termux/files/home/matplotlib/tools/generate_matplotlibrc.py",
+          "@INPUT@",
+          "@OUTPUT@",
+          "auto"
+        ],
+        "parameters": [],
+        "sources": [
+          "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/mpl-data/matplotlibrc"
+        ],
+        "generated_sources": []
+      }
+    ],
+    "extra_files": [],
+    "subproject": null,
+    "dependencies": [],
+    "depends": [],
+    "installed": true,
+    "install_filename": [
+      "/usr/local/lib/python3.14/site-packages/matplotlib/mpl-data/matplotlibrc"
+    ]
+  }
+]

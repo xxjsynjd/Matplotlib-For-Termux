@@ -1,0 +1,59 @@
+The Meson build system
+Version: 1.12.1
+Source dir: /data/data/com.termux/files/home/matplotlib
+Build dir: /data/data/com.termux/files/home/matplotlib/build
+Build type: native build
+Program python3 found: YES (/data/data/com.termux/files/usr/bin/python3)
+Project name: matplotlib
+Project version: 0.0+UNKNOWN
+C compiler for the host machine: /data/data/com.termux/files/usr/bin/ccache cc (clang 21.1.8 "clang version 21.1.8")
+C linker for the host machine: cc ld.lld 21.1.8
+C++ compiler for the host machine: /data/data/com.termux/files/usr/bin/ccache c++ (clang 21.1.8 "clang version 21.1.8")
+C++ linker for the host machine: c++ ld.lld 21.1.8
+Host machine cpu family: aarch64
+Host machine cpu: aarch64
+Program python found: YES (/data/data/com.termux/files/usr/bin/python3.14)
+Dependency pybind11 for host machine found: YES 3.1.0 (cached)
+
+Executing subproject freetype-2.6.1 for machine: host 
+
+Project name: freetype2
+Project version: 2.6.1
+C compiler for the host machine: /data/data/com.termux/files/usr/bin/ccache cc (clang 21.1.8 "clang version 21.1.8")
+C linker for the host machine: cc ld.lld 21.1.8
+Has header "unistd.h" : YES (cached)
+Has header "fcntl.h" : YES (cached)
+Has header "stdint.h" : YES (cached)
+Configuring ftconfig.h using configuration
+Configuring ftoption.h using configuration
+Build targets in project: 3
+Subproject freetype-2.6.1 finished.
+
+
+Executing subproject qhull for machine: host 
+
+Project name: qhull
+Project version: 8.0.2
+C compiler for the host machine: /data/data/com.termux/files/usr/bin/ccache cc (clang 21.1.8 "clang version 21.1.8")
+C linker for the host machine: cc ld.lld 21.1.8
+Build targets in project: 4
+Subproject qhull finished.
+
+Dependency dl for host machine found: YES unknown (cached)
+Configuring _version.py using configuration
+Program /data/data/com.termux/files/home/matplotlib/tools/generate_matplotlibrc.py found: YES (/data/data/com.termux/files/home/matplotlib/tools/generate_matplotlibrc.py)
+Build targets in project: 14
+
+matplotlib 0.0+UNKNOWN
+
+  Subprojects (for host machine)
+    freetype-2.6.1: YES
+    qhull         : YES
+
+  User defined options
+    Native files  : /data/data/com.termux/files/home/matplotlib/build/meson-python-native-file.ini
+    b_ndebug      : if-release
+    b_vscrt       : md
+    buildtype     : release
+
+Found ninja-1.13.2 at /data/data/com.termux/files/usr/bin/ninja

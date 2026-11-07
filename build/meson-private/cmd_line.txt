@@ -1,0 +1,8 @@
+[options]
+buildtype = release
+b_ndebug = if-release
+b_vscrt = md
+
+[properties]
+native_file = ['/data/data/com.termux/files/home/matplotlib/build/meson-python-native-file.ini']
+

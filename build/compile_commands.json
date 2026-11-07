@@ -1,0 +1,524 @@
+[
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache c++ -Iextern/agg24-svn/libagg.a.p -Iextern/agg24-svn -I../extern/agg24-svn -I../extern/agg24-svn/include -fvisibility=hidden -fvisibility-inlines-hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c++17 -O3 -fPIC -MD -MQ extern/agg24-svn/libagg.a.p/src_agg_bezier_arc.cpp.o -MF extern/agg24-svn/libagg.a.p/src_agg_bezier_arc.cpp.o.d -o extern/agg24-svn/libagg.a.p/src_agg_bezier_arc.cpp.o -c ../extern/agg24-svn/src/agg_bezier_arc.cpp",
+    "file": "../extern/agg24-svn/src/agg_bezier_arc.cpp",
+    "output": "extern/agg24-svn/libagg.a.p/src_agg_bezier_arc.cpp.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache c++ -Iextern/agg24-svn/libagg.a.p -Iextern/agg24-svn -I../extern/agg24-svn -I../extern/agg24-svn/include -fvisibility=hidden -fvisibility-inlines-hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c++17 -O3 -fPIC -MD -MQ extern/agg24-svn/libagg.a.p/src_agg_curves.cpp.o -MF extern/agg24-svn/libagg.a.p/src_agg_curves.cpp.o.d -o extern/agg24-svn/libagg.a.p/src_agg_curves.cpp.o -c ../extern/agg24-svn/src/agg_curves.cpp",
+    "file": "../extern/agg24-svn/src/agg_curves.cpp",
+    "output": "extern/agg24-svn/libagg.a.p/src_agg_curves.cpp.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache c++ -Iextern/agg24-svn/libagg.a.p -Iextern/agg24-svn -I../extern/agg24-svn -I../extern/agg24-svn/include -fvisibility=hidden -fvisibility-inlines-hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c++17 -O3 -fPIC -MD -MQ extern/agg24-svn/libagg.a.p/src_agg_image_filters.cpp.o -MF extern/agg24-svn/libagg.a.p/src_agg_image_filters.cpp.o.d -o extern/agg24-svn/libagg.a.p/src_agg_image_filters.cpp.o -c ../extern/agg24-svn/src/agg_image_filters.cpp",
+    "file": "../extern/agg24-svn/src/agg_image_filters.cpp",
+    "output": "extern/agg24-svn/libagg.a.p/src_agg_image_filters.cpp.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache c++ -Iextern/agg24-svn/libagg.a.p -Iextern/agg24-svn -I../extern/agg24-svn -I../extern/agg24-svn/include -fvisibility=hidden -fvisibility-inlines-hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c++17 -O3 -fPIC -MD -MQ extern/agg24-svn/libagg.a.p/src_agg_trans_affine.cpp.o -MF extern/agg24-svn/libagg.a.p/src_agg_trans_affine.cpp.o.d -o extern/agg24-svn/libagg.a.p/src_agg_trans_affine.cpp.o -c ../extern/agg24-svn/src/agg_trans_affine.cpp",
+    "file": "../extern/agg24-svn/src/agg_trans_affine.cpp",
+    "output": "extern/agg24-svn/libagg.a.p/src_agg_trans_affine.cpp.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache c++ -Iextern/agg24-svn/libagg.a.p -Iextern/agg24-svn -I../extern/agg24-svn -I../extern/agg24-svn/include -fvisibility=hidden -fvisibility-inlines-hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c++17 -O3 -fPIC -MD -MQ extern/agg24-svn/libagg.a.p/src_agg_vcgen_contour.cpp.o -MF extern/agg24-svn/libagg.a.p/src_agg_vcgen_contour.cpp.o.d -o extern/agg24-svn/libagg.a.p/src_agg_vcgen_contour.cpp.o -c ../extern/agg24-svn/src/agg_vcgen_contour.cpp",
+    "file": "../extern/agg24-svn/src/agg_vcgen_contour.cpp",
+    "output": "extern/agg24-svn/libagg.a.p/src_agg_vcgen_contour.cpp.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache c++ -Iextern/agg24-svn/libagg.a.p -Iextern/agg24-svn -I../extern/agg24-svn -I../extern/agg24-svn/include -fvisibility=hidden -fvisibility-inlines-hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c++17 -O3 -fPIC -MD -MQ extern/agg24-svn/libagg.a.p/src_agg_vcgen_dash.cpp.o -MF extern/agg24-svn/libagg.a.p/src_agg_vcgen_dash.cpp.o.d -o extern/agg24-svn/libagg.a.p/src_agg_vcgen_dash.cpp.o -c ../extern/agg24-svn/src/agg_vcgen_dash.cpp",
+    "file": "../extern/agg24-svn/src/agg_vcgen_dash.cpp",
+    "output": "extern/agg24-svn/libagg.a.p/src_agg_vcgen_dash.cpp.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache c++ -Iextern/agg24-svn/libagg.a.p -Iextern/agg24-svn -I../extern/agg24-svn -I../extern/agg24-svn/include -fvisibility=hidden -fvisibility-inlines-hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c++17 -O3 -fPIC -MD -MQ extern/agg24-svn/libagg.a.p/src_agg_vcgen_stroke.cpp.o -MF extern/agg24-svn/libagg.a.p/src_agg_vcgen_stroke.cpp.o.d -o extern/agg24-svn/libagg.a.p/src_agg_vcgen_stroke.cpp.o -c ../extern/agg24-svn/src/agg_vcgen_stroke.cpp",
+    "file": "../extern/agg24-svn/src/agg_vcgen_stroke.cpp",
+    "output": "extern/agg24-svn/libagg.a.p/src_agg_vcgen_stroke.cpp.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache c++ -Iextern/agg24-svn/libagg.a.p -Iextern/agg24-svn -I../extern/agg24-svn -I../extern/agg24-svn/include -fvisibility=hidden -fvisibility-inlines-hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c++17 -O3 -fPIC -MD -MQ extern/agg24-svn/libagg.a.p/src_agg_vpgen_segmentator.cpp.o -MF extern/agg24-svn/libagg.a.p/src_agg_vpgen_segmentator.cpp.o.d -o extern/agg24-svn/libagg.a.p/src_agg_vpgen_segmentator.cpp.o -c ../extern/agg24-svn/src/agg_vpgen_segmentator.cpp",
+    "file": "../extern/agg24-svn/src/agg_vpgen_segmentator.cpp",
+    "output": "extern/agg24-svn/libagg.a.p/src_agg_vpgen_segmentator.cpp.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache c++ -Iextern/ttconv/libttconv.a.p -Iextern/ttconv -I../extern/ttconv -I/data/data/com.termux/files/usr/include/python3.14 -fvisibility=hidden -fvisibility-inlines-hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c++17 -O3 -fPIC -MD -MQ extern/ttconv/libttconv.a.p/pprdrv_tt2.cpp.o -MF extern/ttconv/libttconv.a.p/pprdrv_tt2.cpp.o.d -o extern/ttconv/libttconv.a.p/pprdrv_tt2.cpp.o -c ../extern/ttconv/pprdrv_tt2.cpp",
+    "file": "../extern/ttconv/pprdrv_tt2.cpp",
+    "output": "extern/ttconv/libttconv.a.p/pprdrv_tt2.cpp.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache c++ -Iextern/ttconv/libttconv.a.p -Iextern/ttconv -I../extern/ttconv -I/data/data/com.termux/files/usr/include/python3.14 -fvisibility=hidden -fvisibility-inlines-hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c++17 -O3 -fPIC -MD -MQ extern/ttconv/libttconv.a.p/pprdrv_tt.cpp.o -MF extern/ttconv/libttconv.a.p/pprdrv_tt.cpp.o.d -o extern/ttconv/libttconv.a.p/pprdrv_tt.cpp.o -c ../extern/ttconv/pprdrv_tt.cpp",
+    "file": "../extern/ttconv/pprdrv_tt.cpp",
+    "output": "extern/ttconv/libttconv.a.p/pprdrv_tt.cpp.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache c++ -Iextern/ttconv/libttconv.a.p -Iextern/ttconv -I../extern/ttconv -I/data/data/com.termux/files/usr/include/python3.14 -fvisibility=hidden -fvisibility-inlines-hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c++17 -O3 -fPIC -MD -MQ extern/ttconv/libttconv.a.p/ttutil.cpp.o -MF extern/ttconv/libttconv.a.p/ttutil.cpp.o.d -o extern/ttconv/libttconv.a.p/ttutil.cpp.o -c ../extern/ttconv/ttutil.cpp",
+    "file": "../extern/ttconv/ttutil.cpp",
+    "output": "extern/ttconv/libttconv.a.p/ttutil.cpp.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/freetype-2.6.1/libfreetype.a.p -Isubprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1/include -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -DFT2_BUILD_LIBRARY '-DFT_CONFIG_CONFIG_H=<ftconfig.h>' '-DFT_CONFIG_OPTIONS_H=<ftoption.h>' -MD -MQ subprojects/freetype-2.6.1/libfreetype.a.p/src_autofit_autofit.c.o -MF subprojects/freetype-2.6.1/libfreetype.a.p/src_autofit_autofit.c.o.d -o subprojects/freetype-2.6.1/libfreetype.a.p/src_autofit_autofit.c.o -c ../subprojects/freetype-2.6.1/src/autofit/autofit.c",
+    "file": "../subprojects/freetype-2.6.1/src/autofit/autofit.c",
+    "output": "subprojects/freetype-2.6.1/libfreetype.a.p/src_autofit_autofit.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/freetype-2.6.1/libfreetype.a.p -Isubprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1/include -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -DFT2_BUILD_LIBRARY '-DFT_CONFIG_CONFIG_H=<ftconfig.h>' '-DFT_CONFIG_OPTIONS_H=<ftoption.h>' -MD -MQ subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftbase.c.o -MF subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftbase.c.o.d -o subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftbase.c.o -c ../subprojects/freetype-2.6.1/src/base/ftbase.c",
+    "file": "../subprojects/freetype-2.6.1/src/base/ftbase.c",
+    "output": "subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftbase.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/freetype-2.6.1/libfreetype.a.p -Isubprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1/include -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -DFT2_BUILD_LIBRARY '-DFT_CONFIG_CONFIG_H=<ftconfig.h>' '-DFT_CONFIG_OPTIONS_H=<ftoption.h>' -MD -MQ subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftbbox.c.o -MF subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftbbox.c.o.d -o subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftbbox.c.o -c ../subprojects/freetype-2.6.1/src/base/ftbbox.c",
+    "file": "../subprojects/freetype-2.6.1/src/base/ftbbox.c",
+    "output": "subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftbbox.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/freetype-2.6.1/libfreetype.a.p -Isubprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1/include -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -DFT2_BUILD_LIBRARY '-DFT_CONFIG_CONFIG_H=<ftconfig.h>' '-DFT_CONFIG_OPTIONS_H=<ftoption.h>' -MD -MQ subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftbdf.c.o -MF subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftbdf.c.o.d -o subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftbdf.c.o -c ../subprojects/freetype-2.6.1/src/base/ftbdf.c",
+    "file": "../subprojects/freetype-2.6.1/src/base/ftbdf.c",
+    "output": "subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftbdf.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/freetype-2.6.1/libfreetype.a.p -Isubprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1/include -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -DFT2_BUILD_LIBRARY '-DFT_CONFIG_CONFIG_H=<ftconfig.h>' '-DFT_CONFIG_OPTIONS_H=<ftoption.h>' -MD -MQ subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftbitmap.c.o -MF subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftbitmap.c.o.d -o subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftbitmap.c.o -c ../subprojects/freetype-2.6.1/src/base/ftbitmap.c",
+    "file": "../subprojects/freetype-2.6.1/src/base/ftbitmap.c",
+    "output": "subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftbitmap.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/freetype-2.6.1/libfreetype.a.p -Isubprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1/include -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -DFT2_BUILD_LIBRARY '-DFT_CONFIG_CONFIG_H=<ftconfig.h>' '-DFT_CONFIG_OPTIONS_H=<ftoption.h>' -MD -MQ subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftcid.c.o -MF subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftcid.c.o.d -o subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftcid.c.o -c ../subprojects/freetype-2.6.1/src/base/ftcid.c",
+    "file": "../subprojects/freetype-2.6.1/src/base/ftcid.c",
+    "output": "subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftcid.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/freetype-2.6.1/libfreetype.a.p -Isubprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1/include -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -DFT2_BUILD_LIBRARY '-DFT_CONFIG_CONFIG_H=<ftconfig.h>' '-DFT_CONFIG_OPTIONS_H=<ftoption.h>' -MD -MQ subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftfntfmt.c.o -MF subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftfntfmt.c.o.d -o subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftfntfmt.c.o -c ../subprojects/freetype-2.6.1/src/base/ftfntfmt.c",
+    "file": "../subprojects/freetype-2.6.1/src/base/ftfntfmt.c",
+    "output": "subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftfntfmt.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/freetype-2.6.1/libfreetype.a.p -Isubprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1/include -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -DFT2_BUILD_LIBRARY '-DFT_CONFIG_CONFIG_H=<ftconfig.h>' '-DFT_CONFIG_OPTIONS_H=<ftoption.h>' -MD -MQ subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftfstype.c.o -MF subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftfstype.c.o.d -o subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftfstype.c.o -c ../subprojects/freetype-2.6.1/src/base/ftfstype.c",
+    "file": "../subprojects/freetype-2.6.1/src/base/ftfstype.c",
+    "output": "subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftfstype.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/freetype-2.6.1/libfreetype.a.p -Isubprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1/include -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -DFT2_BUILD_LIBRARY '-DFT_CONFIG_CONFIG_H=<ftconfig.h>' '-DFT_CONFIG_OPTIONS_H=<ftoption.h>' -MD -MQ subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftgasp.c.o -MF subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftgasp.c.o.d -o subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftgasp.c.o -c ../subprojects/freetype-2.6.1/src/base/ftgasp.c",
+    "file": "../subprojects/freetype-2.6.1/src/base/ftgasp.c",
+    "output": "subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftgasp.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/freetype-2.6.1/libfreetype.a.p -Isubprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1/include -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -DFT2_BUILD_LIBRARY '-DFT_CONFIG_CONFIG_H=<ftconfig.h>' '-DFT_CONFIG_OPTIONS_H=<ftoption.h>' -MD -MQ subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftglyph.c.o -MF subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftglyph.c.o.d -o subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftglyph.c.o -c ../subprojects/freetype-2.6.1/src/base/ftglyph.c",
+    "file": "../subprojects/freetype-2.6.1/src/base/ftglyph.c",
+    "output": "subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftglyph.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/freetype-2.6.1/libfreetype.a.p -Isubprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1/include -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -DFT2_BUILD_LIBRARY '-DFT_CONFIG_CONFIG_H=<ftconfig.h>' '-DFT_CONFIG_OPTIONS_H=<ftoption.h>' -MD -MQ subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftgxval.c.o -MF subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftgxval.c.o.d -o subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftgxval.c.o -c ../subprojects/freetype-2.6.1/src/base/ftgxval.c",
+    "file": "../subprojects/freetype-2.6.1/src/base/ftgxval.c",
+    "output": "subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftgxval.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/freetype-2.6.1/libfreetype.a.p -Isubprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1/include -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -DFT2_BUILD_LIBRARY '-DFT_CONFIG_CONFIG_H=<ftconfig.h>' '-DFT_CONFIG_OPTIONS_H=<ftoption.h>' -MD -MQ subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftinit.c.o -MF subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftinit.c.o.d -o subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftinit.c.o -c ../subprojects/freetype-2.6.1/src/base/ftinit.c",
+    "file": "../subprojects/freetype-2.6.1/src/base/ftinit.c",
+    "output": "subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftinit.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/freetype-2.6.1/libfreetype.a.p -Isubprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1/include -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -DFT2_BUILD_LIBRARY '-DFT_CONFIG_CONFIG_H=<ftconfig.h>' '-DFT_CONFIG_OPTIONS_H=<ftoption.h>' -MD -MQ subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftlcdfil.c.o -MF subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftlcdfil.c.o.d -o subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftlcdfil.c.o -c ../subprojects/freetype-2.6.1/src/base/ftlcdfil.c",
+    "file": "../subprojects/freetype-2.6.1/src/base/ftlcdfil.c",
+    "output": "subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftlcdfil.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/freetype-2.6.1/libfreetype.a.p -Isubprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1/include -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -DFT2_BUILD_LIBRARY '-DFT_CONFIG_CONFIG_H=<ftconfig.h>' '-DFT_CONFIG_OPTIONS_H=<ftoption.h>' -MD -MQ subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftmm.c.o -MF subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftmm.c.o.d -o subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftmm.c.o -c ../subprojects/freetype-2.6.1/src/base/ftmm.c",
+    "file": "../subprojects/freetype-2.6.1/src/base/ftmm.c",
+    "output": "subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftmm.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/freetype-2.6.1/libfreetype.a.p -Isubprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1/include -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -DFT2_BUILD_LIBRARY '-DFT_CONFIG_CONFIG_H=<ftconfig.h>' '-DFT_CONFIG_OPTIONS_H=<ftoption.h>' -MD -MQ subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftotval.c.o -MF subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftotval.c.o.d -o subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftotval.c.o -c ../subprojects/freetype-2.6.1/src/base/ftotval.c",
+    "file": "../subprojects/freetype-2.6.1/src/base/ftotval.c",
+    "output": "subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftotval.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/freetype-2.6.1/libfreetype.a.p -Isubprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1/include -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -DFT2_BUILD_LIBRARY '-DFT_CONFIG_CONFIG_H=<ftconfig.h>' '-DFT_CONFIG_OPTIONS_H=<ftoption.h>' -MD -MQ subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftpatent.c.o -MF subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftpatent.c.o.d -o subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftpatent.c.o -c ../subprojects/freetype-2.6.1/src/base/ftpatent.c",
+    "file": "../subprojects/freetype-2.6.1/src/base/ftpatent.c",
+    "output": "subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftpatent.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/freetype-2.6.1/libfreetype.a.p -Isubprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1/include -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -DFT2_BUILD_LIBRARY '-DFT_CONFIG_CONFIG_H=<ftconfig.h>' '-DFT_CONFIG_OPTIONS_H=<ftoption.h>' -MD -MQ subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftpfr.c.o -MF subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftpfr.c.o.d -o subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftpfr.c.o -c ../subprojects/freetype-2.6.1/src/base/ftpfr.c",
+    "file": "../subprojects/freetype-2.6.1/src/base/ftpfr.c",
+    "output": "subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftpfr.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/freetype-2.6.1/libfreetype.a.p -Isubprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1/include -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -DFT2_BUILD_LIBRARY '-DFT_CONFIG_CONFIG_H=<ftconfig.h>' '-DFT_CONFIG_OPTIONS_H=<ftoption.h>' -MD -MQ subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftstroke.c.o -MF subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftstroke.c.o.d -o subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftstroke.c.o -c ../subprojects/freetype-2.6.1/src/base/ftstroke.c",
+    "file": "../subprojects/freetype-2.6.1/src/base/ftstroke.c",
+    "output": "subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftstroke.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/freetype-2.6.1/libfreetype.a.p -Isubprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1/include -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -DFT2_BUILD_LIBRARY '-DFT_CONFIG_CONFIG_H=<ftconfig.h>' '-DFT_CONFIG_OPTIONS_H=<ftoption.h>' -MD -MQ subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftsynth.c.o -MF subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftsynth.c.o.d -o subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftsynth.c.o -c ../subprojects/freetype-2.6.1/src/base/ftsynth.c",
+    "file": "../subprojects/freetype-2.6.1/src/base/ftsynth.c",
+    "output": "subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftsynth.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/freetype-2.6.1/libfreetype.a.p -Isubprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1/include -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -DFT2_BUILD_LIBRARY '-DFT_CONFIG_CONFIG_H=<ftconfig.h>' '-DFT_CONFIG_OPTIONS_H=<ftoption.h>' -MD -MQ subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftsystem.c.o -MF subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftsystem.c.o.d -o subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftsystem.c.o -c ../subprojects/freetype-2.6.1/src/base/ftsystem.c",
+    "file": "../subprojects/freetype-2.6.1/src/base/ftsystem.c",
+    "output": "subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftsystem.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/freetype-2.6.1/libfreetype.a.p -Isubprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1/include -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -DFT2_BUILD_LIBRARY '-DFT_CONFIG_CONFIG_H=<ftconfig.h>' '-DFT_CONFIG_OPTIONS_H=<ftoption.h>' -MD -MQ subprojects/freetype-2.6.1/libfreetype.a.p/src_base_fttype1.c.o -MF subprojects/freetype-2.6.1/libfreetype.a.p/src_base_fttype1.c.o.d -o subprojects/freetype-2.6.1/libfreetype.a.p/src_base_fttype1.c.o -c ../subprojects/freetype-2.6.1/src/base/fttype1.c",
+    "file": "../subprojects/freetype-2.6.1/src/base/fttype1.c",
+    "output": "subprojects/freetype-2.6.1/libfreetype.a.p/src_base_fttype1.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/freetype-2.6.1/libfreetype.a.p -Isubprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1/include -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -DFT2_BUILD_LIBRARY '-DFT_CONFIG_CONFIG_H=<ftconfig.h>' '-DFT_CONFIG_OPTIONS_H=<ftoption.h>' -MD -MQ subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftwinfnt.c.o -MF subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftwinfnt.c.o.d -o subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftwinfnt.c.o -c ../subprojects/freetype-2.6.1/src/base/ftwinfnt.c",
+    "file": "../subprojects/freetype-2.6.1/src/base/ftwinfnt.c",
+    "output": "subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftwinfnt.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/freetype-2.6.1/libfreetype.a.p -Isubprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1/include -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -DFT2_BUILD_LIBRARY '-DFT_CONFIG_CONFIG_H=<ftconfig.h>' '-DFT_CONFIG_OPTIONS_H=<ftoption.h>' -MD -MQ subprojects/freetype-2.6.1/libfreetype.a.p/src_bdf_bdf.c.o -MF subprojects/freetype-2.6.1/libfreetype.a.p/src_bdf_bdf.c.o.d -o subprojects/freetype-2.6.1/libfreetype.a.p/src_bdf_bdf.c.o -c ../subprojects/freetype-2.6.1/src/bdf/bdf.c",
+    "file": "../subprojects/freetype-2.6.1/src/bdf/bdf.c",
+    "output": "subprojects/freetype-2.6.1/libfreetype.a.p/src_bdf_bdf.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/freetype-2.6.1/libfreetype.a.p -Isubprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1/include -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -DFT2_BUILD_LIBRARY '-DFT_CONFIG_CONFIG_H=<ftconfig.h>' '-DFT_CONFIG_OPTIONS_H=<ftoption.h>' -MD -MQ subprojects/freetype-2.6.1/libfreetype.a.p/src_bzip2_ftbzip2.c.o -MF subprojects/freetype-2.6.1/libfreetype.a.p/src_bzip2_ftbzip2.c.o.d -o subprojects/freetype-2.6.1/libfreetype.a.p/src_bzip2_ftbzip2.c.o -c ../subprojects/freetype-2.6.1/src/bzip2/ftbzip2.c",
+    "file": "../subprojects/freetype-2.6.1/src/bzip2/ftbzip2.c",
+    "output": "subprojects/freetype-2.6.1/libfreetype.a.p/src_bzip2_ftbzip2.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/freetype-2.6.1/libfreetype.a.p -Isubprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1/include -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -DFT2_BUILD_LIBRARY '-DFT_CONFIG_CONFIG_H=<ftconfig.h>' '-DFT_CONFIG_OPTIONS_H=<ftoption.h>' -MD -MQ subprojects/freetype-2.6.1/libfreetype.a.p/src_cache_ftcache.c.o -MF subprojects/freetype-2.6.1/libfreetype.a.p/src_cache_ftcache.c.o.d -o subprojects/freetype-2.6.1/libfreetype.a.p/src_cache_ftcache.c.o -c ../subprojects/freetype-2.6.1/src/cache/ftcache.c",
+    "file": "../subprojects/freetype-2.6.1/src/cache/ftcache.c",
+    "output": "subprojects/freetype-2.6.1/libfreetype.a.p/src_cache_ftcache.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/freetype-2.6.1/libfreetype.a.p -Isubprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1/include -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -DFT2_BUILD_LIBRARY '-DFT_CONFIG_CONFIG_H=<ftconfig.h>' '-DFT_CONFIG_OPTIONS_H=<ftoption.h>' -MD -MQ subprojects/freetype-2.6.1/libfreetype.a.p/src_cff_cff.c.o -MF subprojects/freetype-2.6.1/libfreetype.a.p/src_cff_cff.c.o.d -o subprojects/freetype-2.6.1/libfreetype.a.p/src_cff_cff.c.o -c ../subprojects/freetype-2.6.1/src/cff/cff.c",
+    "file": "../subprojects/freetype-2.6.1/src/cff/cff.c",
+    "output": "subprojects/freetype-2.6.1/libfreetype.a.p/src_cff_cff.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/freetype-2.6.1/libfreetype.a.p -Isubprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1/include -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -DFT2_BUILD_LIBRARY '-DFT_CONFIG_CONFIG_H=<ftconfig.h>' '-DFT_CONFIG_OPTIONS_H=<ftoption.h>' -MD -MQ subprojects/freetype-2.6.1/libfreetype.a.p/src_cid_type1cid.c.o -MF subprojects/freetype-2.6.1/libfreetype.a.p/src_cid_type1cid.c.o.d -o subprojects/freetype-2.6.1/libfreetype.a.p/src_cid_type1cid.c.o -c ../subprojects/freetype-2.6.1/src/cid/type1cid.c",
+    "file": "../subprojects/freetype-2.6.1/src/cid/type1cid.c",
+    "output": "subprojects/freetype-2.6.1/libfreetype.a.p/src_cid_type1cid.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/freetype-2.6.1/libfreetype.a.p -Isubprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1/include -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -DFT2_BUILD_LIBRARY '-DFT_CONFIG_CONFIG_H=<ftconfig.h>' '-DFT_CONFIG_OPTIONS_H=<ftoption.h>' -MD -MQ subprojects/freetype-2.6.1/libfreetype.a.p/src_gzip_ftgzip.c.o -MF subprojects/freetype-2.6.1/libfreetype.a.p/src_gzip_ftgzip.c.o.d -o subprojects/freetype-2.6.1/libfreetype.a.p/src_gzip_ftgzip.c.o -c ../subprojects/freetype-2.6.1/src/gzip/ftgzip.c",
+    "file": "../subprojects/freetype-2.6.1/src/gzip/ftgzip.c",
+    "output": "subprojects/freetype-2.6.1/libfreetype.a.p/src_gzip_ftgzip.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/freetype-2.6.1/libfreetype.a.p -Isubprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1/include -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -DFT2_BUILD_LIBRARY '-DFT_CONFIG_CONFIG_H=<ftconfig.h>' '-DFT_CONFIG_OPTIONS_H=<ftoption.h>' -MD -MQ subprojects/freetype-2.6.1/libfreetype.a.p/src_lzw_ftlzw.c.o -MF subprojects/freetype-2.6.1/libfreetype.a.p/src_lzw_ftlzw.c.o.d -o subprojects/freetype-2.6.1/libfreetype.a.p/src_lzw_ftlzw.c.o -c ../subprojects/freetype-2.6.1/src/lzw/ftlzw.c",
+    "file": "../subprojects/freetype-2.6.1/src/lzw/ftlzw.c",
+    "output": "subprojects/freetype-2.6.1/libfreetype.a.p/src_lzw_ftlzw.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/freetype-2.6.1/libfreetype.a.p -Isubprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1/include -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -DFT2_BUILD_LIBRARY '-DFT_CONFIG_CONFIG_H=<ftconfig.h>' '-DFT_CONFIG_OPTIONS_H=<ftoption.h>' -MD -MQ subprojects/freetype-2.6.1/libfreetype.a.p/src_pcf_pcf.c.o -MF subprojects/freetype-2.6.1/libfreetype.a.p/src_pcf_pcf.c.o.d -o subprojects/freetype-2.6.1/libfreetype.a.p/src_pcf_pcf.c.o -c ../subprojects/freetype-2.6.1/src/pcf/pcf.c",
+    "file": "../subprojects/freetype-2.6.1/src/pcf/pcf.c",
+    "output": "subprojects/freetype-2.6.1/libfreetype.a.p/src_pcf_pcf.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/freetype-2.6.1/libfreetype.a.p -Isubprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1/include -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -DFT2_BUILD_LIBRARY '-DFT_CONFIG_CONFIG_H=<ftconfig.h>' '-DFT_CONFIG_OPTIONS_H=<ftoption.h>' -MD -MQ subprojects/freetype-2.6.1/libfreetype.a.p/src_pfr_pfr.c.o -MF subprojects/freetype-2.6.1/libfreetype.a.p/src_pfr_pfr.c.o.d -o subprojects/freetype-2.6.1/libfreetype.a.p/src_pfr_pfr.c.o -c ../subprojects/freetype-2.6.1/src/pfr/pfr.c",
+    "file": "../subprojects/freetype-2.6.1/src/pfr/pfr.c",
+    "output": "subprojects/freetype-2.6.1/libfreetype.a.p/src_pfr_pfr.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/freetype-2.6.1/libfreetype.a.p -Isubprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1/include -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -DFT2_BUILD_LIBRARY '-DFT_CONFIG_CONFIG_H=<ftconfig.h>' '-DFT_CONFIG_OPTIONS_H=<ftoption.h>' -MD -MQ subprojects/freetype-2.6.1/libfreetype.a.p/src_psaux_psaux.c.o -MF subprojects/freetype-2.6.1/libfreetype.a.p/src_psaux_psaux.c.o.d -o subprojects/freetype-2.6.1/libfreetype.a.p/src_psaux_psaux.c.o -c ../subprojects/freetype-2.6.1/src/psaux/psaux.c",
+    "file": "../subprojects/freetype-2.6.1/src/psaux/psaux.c",
+    "output": "subprojects/freetype-2.6.1/libfreetype.a.p/src_psaux_psaux.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/freetype-2.6.1/libfreetype.a.p -Isubprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1/include -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -DFT2_BUILD_LIBRARY '-DFT_CONFIG_CONFIG_H=<ftconfig.h>' '-DFT_CONFIG_OPTIONS_H=<ftoption.h>' -MD -MQ subprojects/freetype-2.6.1/libfreetype.a.p/src_pshinter_pshinter.c.o -MF subprojects/freetype-2.6.1/libfreetype.a.p/src_pshinter_pshinter.c.o.d -o subprojects/freetype-2.6.1/libfreetype.a.p/src_pshinter_pshinter.c.o -c ../subprojects/freetype-2.6.1/src/pshinter/pshinter.c",
+    "file": "../subprojects/freetype-2.6.1/src/pshinter/pshinter.c",
+    "output": "subprojects/freetype-2.6.1/libfreetype.a.p/src_pshinter_pshinter.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/freetype-2.6.1/libfreetype.a.p -Isubprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1/include -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -DFT2_BUILD_LIBRARY '-DFT_CONFIG_CONFIG_H=<ftconfig.h>' '-DFT_CONFIG_OPTIONS_H=<ftoption.h>' -MD -MQ subprojects/freetype-2.6.1/libfreetype.a.p/src_psnames_psnames.c.o -MF subprojects/freetype-2.6.1/libfreetype.a.p/src_psnames_psnames.c.o.d -o subprojects/freetype-2.6.1/libfreetype.a.p/src_psnames_psnames.c.o -c ../subprojects/freetype-2.6.1/src/psnames/psnames.c",
+    "file": "../subprojects/freetype-2.6.1/src/psnames/psnames.c",
+    "output": "subprojects/freetype-2.6.1/libfreetype.a.p/src_psnames_psnames.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/freetype-2.6.1/libfreetype.a.p -Isubprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1/include -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -DFT2_BUILD_LIBRARY '-DFT_CONFIG_CONFIG_H=<ftconfig.h>' '-DFT_CONFIG_OPTIONS_H=<ftoption.h>' -MD -MQ subprojects/freetype-2.6.1/libfreetype.a.p/src_raster_raster.c.o -MF subprojects/freetype-2.6.1/libfreetype.a.p/src_raster_raster.c.o.d -o subprojects/freetype-2.6.1/libfreetype.a.p/src_raster_raster.c.o -c ../subprojects/freetype-2.6.1/src/raster/raster.c",
+    "file": "../subprojects/freetype-2.6.1/src/raster/raster.c",
+    "output": "subprojects/freetype-2.6.1/libfreetype.a.p/src_raster_raster.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/freetype-2.6.1/libfreetype.a.p -Isubprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1/include -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -DFT2_BUILD_LIBRARY '-DFT_CONFIG_CONFIG_H=<ftconfig.h>' '-DFT_CONFIG_OPTIONS_H=<ftoption.h>' -MD -MQ subprojects/freetype-2.6.1/libfreetype.a.p/src_sfnt_sfnt.c.o -MF subprojects/freetype-2.6.1/libfreetype.a.p/src_sfnt_sfnt.c.o.d -o subprojects/freetype-2.6.1/libfreetype.a.p/src_sfnt_sfnt.c.o -c ../subprojects/freetype-2.6.1/src/sfnt/sfnt.c",
+    "file": "../subprojects/freetype-2.6.1/src/sfnt/sfnt.c",
+    "output": "subprojects/freetype-2.6.1/libfreetype.a.p/src_sfnt_sfnt.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/freetype-2.6.1/libfreetype.a.p -Isubprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1/include -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -DFT2_BUILD_LIBRARY '-DFT_CONFIG_CONFIG_H=<ftconfig.h>' '-DFT_CONFIG_OPTIONS_H=<ftoption.h>' -MD -MQ subprojects/freetype-2.6.1/libfreetype.a.p/src_smooth_smooth.c.o -MF subprojects/freetype-2.6.1/libfreetype.a.p/src_smooth_smooth.c.o.d -o subprojects/freetype-2.6.1/libfreetype.a.p/src_smooth_smooth.c.o -c ../subprojects/freetype-2.6.1/src/smooth/smooth.c",
+    "file": "../subprojects/freetype-2.6.1/src/smooth/smooth.c",
+    "output": "subprojects/freetype-2.6.1/libfreetype.a.p/src_smooth_smooth.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/freetype-2.6.1/libfreetype.a.p -Isubprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1/include -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -DFT2_BUILD_LIBRARY '-DFT_CONFIG_CONFIG_H=<ftconfig.h>' '-DFT_CONFIG_OPTIONS_H=<ftoption.h>' -MD -MQ subprojects/freetype-2.6.1/libfreetype.a.p/src_truetype_truetype.c.o -MF subprojects/freetype-2.6.1/libfreetype.a.p/src_truetype_truetype.c.o.d -o subprojects/freetype-2.6.1/libfreetype.a.p/src_truetype_truetype.c.o -c ../subprojects/freetype-2.6.1/src/truetype/truetype.c",
+    "file": "../subprojects/freetype-2.6.1/src/truetype/truetype.c",
+    "output": "subprojects/freetype-2.6.1/libfreetype.a.p/src_truetype_truetype.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/freetype-2.6.1/libfreetype.a.p -Isubprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1/include -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -DFT2_BUILD_LIBRARY '-DFT_CONFIG_CONFIG_H=<ftconfig.h>' '-DFT_CONFIG_OPTIONS_H=<ftoption.h>' -MD -MQ subprojects/freetype-2.6.1/libfreetype.a.p/src_type1_type1.c.o -MF subprojects/freetype-2.6.1/libfreetype.a.p/src_type1_type1.c.o.d -o subprojects/freetype-2.6.1/libfreetype.a.p/src_type1_type1.c.o -c ../subprojects/freetype-2.6.1/src/type1/type1.c",
+    "file": "../subprojects/freetype-2.6.1/src/type1/type1.c",
+    "output": "subprojects/freetype-2.6.1/libfreetype.a.p/src_type1_type1.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/freetype-2.6.1/libfreetype.a.p -Isubprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1/include -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -DFT2_BUILD_LIBRARY '-DFT_CONFIG_CONFIG_H=<ftconfig.h>' '-DFT_CONFIG_OPTIONS_H=<ftoption.h>' -MD -MQ subprojects/freetype-2.6.1/libfreetype.a.p/src_type42_type42.c.o -MF subprojects/freetype-2.6.1/libfreetype.a.p/src_type42_type42.c.o.d -o subprojects/freetype-2.6.1/libfreetype.a.p/src_type42_type42.c.o -c ../subprojects/freetype-2.6.1/src/type42/type42.c",
+    "file": "../subprojects/freetype-2.6.1/src/type42/type42.c",
+    "output": "subprojects/freetype-2.6.1/libfreetype.a.p/src_type42_type42.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/freetype-2.6.1/libfreetype.a.p -Isubprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1/include -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -DFT2_BUILD_LIBRARY '-DFT_CONFIG_CONFIG_H=<ftconfig.h>' '-DFT_CONFIG_OPTIONS_H=<ftoption.h>' -MD -MQ subprojects/freetype-2.6.1/libfreetype.a.p/src_winfonts_winfnt.c.o -MF subprojects/freetype-2.6.1/libfreetype.a.p/src_winfonts_winfnt.c.o.d -o subprojects/freetype-2.6.1/libfreetype.a.p/src_winfonts_winfnt.c.o -c ../subprojects/freetype-2.6.1/src/winfonts/winfnt.c",
+    "file": "../subprojects/freetype-2.6.1/src/winfonts/winfnt.c",
+    "output": "subprojects/freetype-2.6.1/libfreetype.a.p/src_winfonts_winfnt.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/freetype-2.6.1/libfreetype.a.p -Isubprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1 -I../subprojects/freetype-2.6.1/include -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -DFT2_BUILD_LIBRARY '-DFT_CONFIG_CONFIG_H=<ftconfig.h>' '-DFT_CONFIG_OPTIONS_H=<ftoption.h>' -MD -MQ subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftdebug.c.o -MF subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftdebug.c.o.d -o subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftdebug.c.o -c ../subprojects/freetype-2.6.1/src/base/ftdebug.c",
+    "file": "../subprojects/freetype-2.6.1/src/base/ftdebug.c",
+    "output": "subprojects/freetype-2.6.1/libfreetype.a.p/src_base_ftdebug.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/qhull-8.0.2/libqhull_r.a.p -Isubprojects/qhull-8.0.2 -I../subprojects/qhull-8.0.2 -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -MD -MQ subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_geom2_r.c.o -MF subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_geom2_r.c.o.d -o subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_geom2_r.c.o -c ../subprojects/qhull-8.0.2/src/libqhull_r/geom2_r.c",
+    "file": "../subprojects/qhull-8.0.2/src/libqhull_r/geom2_r.c",
+    "output": "subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_geom2_r.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/qhull-8.0.2/libqhull_r.a.p -Isubprojects/qhull-8.0.2 -I../subprojects/qhull-8.0.2 -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -MD -MQ subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_geom_r.c.o -MF subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_geom_r.c.o.d -o subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_geom_r.c.o -c ../subprojects/qhull-8.0.2/src/libqhull_r/geom_r.c",
+    "file": "../subprojects/qhull-8.0.2/src/libqhull_r/geom_r.c",
+    "output": "subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_geom_r.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/qhull-8.0.2/libqhull_r.a.p -Isubprojects/qhull-8.0.2 -I../subprojects/qhull-8.0.2 -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -MD -MQ subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_global_r.c.o -MF subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_global_r.c.o.d -o subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_global_r.c.o -c ../subprojects/qhull-8.0.2/src/libqhull_r/global_r.c",
+    "file": "../subprojects/qhull-8.0.2/src/libqhull_r/global_r.c",
+    "output": "subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_global_r.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/qhull-8.0.2/libqhull_r.a.p -Isubprojects/qhull-8.0.2 -I../subprojects/qhull-8.0.2 -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -MD -MQ subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_io_r.c.o -MF subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_io_r.c.o.d -o subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_io_r.c.o -c ../subprojects/qhull-8.0.2/src/libqhull_r/io_r.c",
+    "file": "../subprojects/qhull-8.0.2/src/libqhull_r/io_r.c",
+    "output": "subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_io_r.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/qhull-8.0.2/libqhull_r.a.p -Isubprojects/qhull-8.0.2 -I../subprojects/qhull-8.0.2 -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -MD -MQ subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_libqhull_r.c.o -MF subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_libqhull_r.c.o.d -o subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_libqhull_r.c.o -c ../subprojects/qhull-8.0.2/src/libqhull_r/libqhull_r.c",
+    "file": "../subprojects/qhull-8.0.2/src/libqhull_r/libqhull_r.c",
+    "output": "subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_libqhull_r.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/qhull-8.0.2/libqhull_r.a.p -Isubprojects/qhull-8.0.2 -I../subprojects/qhull-8.0.2 -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -MD -MQ subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_mem_r.c.o -MF subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_mem_r.c.o.d -o subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_mem_r.c.o -c ../subprojects/qhull-8.0.2/src/libqhull_r/mem_r.c",
+    "file": "../subprojects/qhull-8.0.2/src/libqhull_r/mem_r.c",
+    "output": "subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_mem_r.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/qhull-8.0.2/libqhull_r.a.p -Isubprojects/qhull-8.0.2 -I../subprojects/qhull-8.0.2 -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -MD -MQ subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_merge_r.c.o -MF subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_merge_r.c.o.d -o subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_merge_r.c.o -c ../subprojects/qhull-8.0.2/src/libqhull_r/merge_r.c",
+    "file": "../subprojects/qhull-8.0.2/src/libqhull_r/merge_r.c",
+    "output": "subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_merge_r.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/qhull-8.0.2/libqhull_r.a.p -Isubprojects/qhull-8.0.2 -I../subprojects/qhull-8.0.2 -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -MD -MQ subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_poly2_r.c.o -MF subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_poly2_r.c.o.d -o subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_poly2_r.c.o -c ../subprojects/qhull-8.0.2/src/libqhull_r/poly2_r.c",
+    "file": "../subprojects/qhull-8.0.2/src/libqhull_r/poly2_r.c",
+    "output": "subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_poly2_r.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/qhull-8.0.2/libqhull_r.a.p -Isubprojects/qhull-8.0.2 -I../subprojects/qhull-8.0.2 -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -MD -MQ subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_poly_r.c.o -MF subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_poly_r.c.o.d -o subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_poly_r.c.o -c ../subprojects/qhull-8.0.2/src/libqhull_r/poly_r.c",
+    "file": "../subprojects/qhull-8.0.2/src/libqhull_r/poly_r.c",
+    "output": "subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_poly_r.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/qhull-8.0.2/libqhull_r.a.p -Isubprojects/qhull-8.0.2 -I../subprojects/qhull-8.0.2 -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -MD -MQ subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_qset_r.c.o -MF subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_qset_r.c.o.d -o subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_qset_r.c.o -c ../subprojects/qhull-8.0.2/src/libqhull_r/qset_r.c",
+    "file": "../subprojects/qhull-8.0.2/src/libqhull_r/qset_r.c",
+    "output": "subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_qset_r.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/qhull-8.0.2/libqhull_r.a.p -Isubprojects/qhull-8.0.2 -I../subprojects/qhull-8.0.2 -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -MD -MQ subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_random_r.c.o -MF subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_random_r.c.o.d -o subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_random_r.c.o -c ../subprojects/qhull-8.0.2/src/libqhull_r/random_r.c",
+    "file": "../subprojects/qhull-8.0.2/src/libqhull_r/random_r.c",
+    "output": "subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_random_r.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/qhull-8.0.2/libqhull_r.a.p -Isubprojects/qhull-8.0.2 -I../subprojects/qhull-8.0.2 -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -MD -MQ subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_rboxlib_r.c.o -MF subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_rboxlib_r.c.o.d -o subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_rboxlib_r.c.o -c ../subprojects/qhull-8.0.2/src/libqhull_r/rboxlib_r.c",
+    "file": "../subprojects/qhull-8.0.2/src/libqhull_r/rboxlib_r.c",
+    "output": "subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_rboxlib_r.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/qhull-8.0.2/libqhull_r.a.p -Isubprojects/qhull-8.0.2 -I../subprojects/qhull-8.0.2 -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -MD -MQ subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_stat_r.c.o -MF subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_stat_r.c.o.d -o subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_stat_r.c.o -c ../subprojects/qhull-8.0.2/src/libqhull_r/stat_r.c",
+    "file": "../subprojects/qhull-8.0.2/src/libqhull_r/stat_r.c",
+    "output": "subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_stat_r.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/qhull-8.0.2/libqhull_r.a.p -Isubprojects/qhull-8.0.2 -I../subprojects/qhull-8.0.2 -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -MD -MQ subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_usermem_r.c.o -MF subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_usermem_r.c.o.d -o subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_usermem_r.c.o -c ../subprojects/qhull-8.0.2/src/libqhull_r/usermem_r.c",
+    "file": "../subprojects/qhull-8.0.2/src/libqhull_r/usermem_r.c",
+    "output": "subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_usermem_r.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/qhull-8.0.2/libqhull_r.a.p -Isubprojects/qhull-8.0.2 -I../subprojects/qhull-8.0.2 -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -MD -MQ subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_userprintf_rbox_r.c.o -MF subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_userprintf_rbox_r.c.o.d -o subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_userprintf_rbox_r.c.o -c ../subprojects/qhull-8.0.2/src/libqhull_r/userprintf_rbox_r.c",
+    "file": "../subprojects/qhull-8.0.2/src/libqhull_r/userprintf_rbox_r.c",
+    "output": "subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_userprintf_rbox_r.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/qhull-8.0.2/libqhull_r.a.p -Isubprojects/qhull-8.0.2 -I../subprojects/qhull-8.0.2 -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -MD -MQ subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_userprintf_r.c.o -MF subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_userprintf_r.c.o.d -o subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_userprintf_r.c.o -c ../subprojects/qhull-8.0.2/src/libqhull_r/userprintf_r.c",
+    "file": "../subprojects/qhull-8.0.2/src/libqhull_r/userprintf_r.c",
+    "output": "subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_userprintf_r.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache cc -Isubprojects/qhull-8.0.2/libqhull_r.a.p -Isubprojects/qhull-8.0.2 -I../subprojects/qhull-8.0.2 -fvisibility=hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -fPIC -MD -MQ subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_user_r.c.o -MF subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_user_r.c.o.d -o subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_user_r.c.o -c ../subprojects/qhull-8.0.2/src/libqhull_r/user_r.c",
+    "file": "../subprojects/qhull-8.0.2/src/libqhull_r/user_r.c",
+    "output": "subprojects/qhull-8.0.2/libqhull_r.a.p/src_libqhull_r_user_r.c.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache c++ -Isrc/_backend_agg.cpython-314-aarch64-linux-android.so.p -Isrc -I../src -I../extern/agg24-svn/include -I../../../usr/lib/python3.14/site-packages/numpy/_core/include -I../subprojects/freetype-2.6.1/include -I/data/data/com.termux/files/usr/include/python3.14 -fvisibility=hidden -fvisibility-inlines-hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c++17 -O3 -fPIC -DNPY_NO_DEPRECATED_API=NPY_1_7_API_VERSION -D__STDC_FORMAT_MACROS=1 -DPY_ARRAY_UNIQUE_SYMBOL=MPL__backend_agg_ARRAY_API -MD -MQ src/_backend_agg.cpython-314-aarch64-linux-android.so.p/py_converters.cpp.o -MF src/_backend_agg.cpython-314-aarch64-linux-android.so.p/py_converters.cpp.o.d -o src/_backend_agg.cpython-314-aarch64-linux-android.so.p/py_converters.cpp.o -c ../src/py_converters.cpp",
+    "file": "../src/py_converters.cpp",
+    "output": "src/_backend_agg.cpython-314-aarch64-linux-android.so.p/py_converters.cpp.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache c++ -Isrc/_backend_agg.cpython-314-aarch64-linux-android.so.p -Isrc -I../src -I../extern/agg24-svn/include -I../../../usr/lib/python3.14/site-packages/numpy/_core/include -I../subprojects/freetype-2.6.1/include -I/data/data/com.termux/files/usr/include/python3.14 -fvisibility=hidden -fvisibility-inlines-hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c++17 -O3 -fPIC -DNPY_NO_DEPRECATED_API=NPY_1_7_API_VERSION -D__STDC_FORMAT_MACROS=1 -DPY_ARRAY_UNIQUE_SYMBOL=MPL__backend_agg_ARRAY_API -MD -MQ src/_backend_agg.cpython-314-aarch64-linux-android.so.p/_backend_agg.cpp.o -MF src/_backend_agg.cpython-314-aarch64-linux-android.so.p/_backend_agg.cpp.o.d -o src/_backend_agg.cpython-314-aarch64-linux-android.so.p/_backend_agg.cpp.o -c ../src/_backend_agg.cpp",
+    "file": "../src/_backend_agg.cpp",
+    "output": "src/_backend_agg.cpython-314-aarch64-linux-android.so.p/_backend_agg.cpp.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache c++ -Isrc/_backend_agg.cpython-314-aarch64-linux-android.so.p -Isrc -I../src -I../extern/agg24-svn/include -I../../../usr/lib/python3.14/site-packages/numpy/_core/include -I../subprojects/freetype-2.6.1/include -I/data/data/com.termux/files/usr/include/python3.14 -fvisibility=hidden -fvisibility-inlines-hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c++17 -O3 -fPIC -DNPY_NO_DEPRECATED_API=NPY_1_7_API_VERSION -D__STDC_FORMAT_MACROS=1 -DPY_ARRAY_UNIQUE_SYMBOL=MPL__backend_agg_ARRAY_API -MD -MQ src/_backend_agg.cpython-314-aarch64-linux-android.so.p/_backend_agg_wrapper.cpp.o -MF src/_backend_agg.cpython-314-aarch64-linux-android.so.p/_backend_agg_wrapper.cpp.o.d -o src/_backend_agg.cpython-314-aarch64-linux-android.so.p/_backend_agg_wrapper.cpp.o -c ../src/_backend_agg_wrapper.cpp",
+    "file": "../src/_backend_agg_wrapper.cpp",
+    "output": "src/_backend_agg.cpython-314-aarch64-linux-android.so.p/_backend_agg_wrapper.cpp.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache c++ -Isrc/_c_internal_utils.cpython-314-aarch64-linux-android.so.p -Isrc -I../src -I/data/data/com.termux/files/usr/include/python3.11 -I/data/data/com.termux/files/usr/lib/python3.11/site-packages/pybind11/include -I/data/data/com.termux/files/usr/include/python3.14 -fvisibility=hidden -fvisibility-inlines-hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c++17 -O3 -fPIC -DPY_ARRAY_UNIQUE_SYMBOL=MPL__c_internal_utils_ARRAY_API -MD -MQ src/_c_internal_utils.cpython-314-aarch64-linux-android.so.p/_c_internal_utils.cpp.o -MF src/_c_internal_utils.cpython-314-aarch64-linux-android.so.p/_c_internal_utils.cpp.o.d -o src/_c_internal_utils.cpython-314-aarch64-linux-android.so.p/_c_internal_utils.cpp.o -c ../src/_c_internal_utils.cpp",
+    "file": "../src/_c_internal_utils.cpp",
+    "output": "src/_c_internal_utils.cpython-314-aarch64-linux-android.so.p/_c_internal_utils.cpp.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache c++ -Isrc/ft2font.cpython-314-aarch64-linux-android.so.p -Isrc -I../src -I../subprojects/freetype-2.6.1/include -I../../../usr/lib/python3.14/site-packages/numpy/_core/include -I../extern/agg24-svn/include -I/data/data/com.termux/files/usr/include/python3.14 -fvisibility=hidden -fvisibility-inlines-hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c++17 -O3 -fPIC -DNPY_NO_DEPRECATED_API=NPY_1_7_API_VERSION -D__STDC_FORMAT_MACROS=1 -DPY_ARRAY_UNIQUE_SYMBOL=MPL_ft2font_ARRAY_API '-DFREETYPE_BUILD_TYPE=\"local\"' -MD -MQ src/ft2font.cpython-314-aarch64-linux-android.so.p/ft2font.cpp.o -MF src/ft2font.cpython-314-aarch64-linux-android.so.p/ft2font.cpp.o.d -o src/ft2font.cpython-314-aarch64-linux-android.so.p/ft2font.cpp.o -c ../src/ft2font.cpp",
+    "file": "../src/ft2font.cpp",
+    "output": "src/ft2font.cpython-314-aarch64-linux-android.so.p/ft2font.cpp.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache c++ -Isrc/ft2font.cpython-314-aarch64-linux-android.so.p -Isrc -I../src -I../subprojects/freetype-2.6.1/include -I../../../usr/lib/python3.14/site-packages/numpy/_core/include -I../extern/agg24-svn/include -I/data/data/com.termux/files/usr/include/python3.14 -fvisibility=hidden -fvisibility-inlines-hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c++17 -O3 -fPIC -DNPY_NO_DEPRECATED_API=NPY_1_7_API_VERSION -D__STDC_FORMAT_MACROS=1 -DPY_ARRAY_UNIQUE_SYMBOL=MPL_ft2font_ARRAY_API '-DFREETYPE_BUILD_TYPE=\"local\"' -MD -MQ src/ft2font.cpython-314-aarch64-linux-android.so.p/ft2font_wrapper.cpp.o -MF src/ft2font.cpython-314-aarch64-linux-android.so.p/ft2font_wrapper.cpp.o.d -o src/ft2font.cpython-314-aarch64-linux-android.so.p/ft2font_wrapper.cpp.o -c ../src/ft2font_wrapper.cpp",
+    "file": "../src/ft2font_wrapper.cpp",
+    "output": "src/ft2font.cpython-314-aarch64-linux-android.so.p/ft2font_wrapper.cpp.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache c++ -Isrc/ft2font.cpython-314-aarch64-linux-android.so.p -Isrc -I../src -I../subprojects/freetype-2.6.1/include -I../../../usr/lib/python3.14/site-packages/numpy/_core/include -I../extern/agg24-svn/include -I/data/data/com.termux/files/usr/include/python3.14 -fvisibility=hidden -fvisibility-inlines-hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c++17 -O3 -fPIC -DNPY_NO_DEPRECATED_API=NPY_1_7_API_VERSION -D__STDC_FORMAT_MACROS=1 -DPY_ARRAY_UNIQUE_SYMBOL=MPL_ft2font_ARRAY_API '-DFREETYPE_BUILD_TYPE=\"local\"' -MD -MQ src/ft2font.cpython-314-aarch64-linux-android.so.p/py_converters.cpp.o -MF src/ft2font.cpython-314-aarch64-linux-android.so.p/py_converters.cpp.o.d -o src/ft2font.cpython-314-aarch64-linux-android.so.p/py_converters.cpp.o -c ../src/py_converters.cpp",
+    "file": "../src/py_converters.cpp",
+    "output": "src/ft2font.cpython-314-aarch64-linux-android.so.p/py_converters.cpp.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache c++ -Isrc/_image.cpython-314-aarch64-linux-android.so.p -Isrc -I../src -I../extern/agg24-svn/include -I/data/data/com.termux/files/usr/include/python3.11 -I/data/data/com.termux/files/usr/lib/python3.11/site-packages/pybind11/include -I/data/data/com.termux/files/usr/include/python3.14 -fvisibility=hidden -fvisibility-inlines-hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c++17 -O3 -fPIC -DPY_ARRAY_UNIQUE_SYMBOL=MPL__image_ARRAY_API -MD -MQ src/_image.cpython-314-aarch64-linux-android.so.p/_image_wrapper.cpp.o -MF src/_image.cpython-314-aarch64-linux-android.so.p/_image_wrapper.cpp.o.d -o src/_image.cpython-314-aarch64-linux-android.so.p/_image_wrapper.cpp.o -c ../src/_image_wrapper.cpp",
+    "file": "../src/_image_wrapper.cpp",
+    "output": "src/_image.cpython-314-aarch64-linux-android.so.p/_image_wrapper.cpp.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache c++ -Isrc/_image.cpython-314-aarch64-linux-android.so.p -Isrc -I../src -I../extern/agg24-svn/include -I/data/data/com.termux/files/usr/include/python3.11 -I/data/data/com.termux/files/usr/lib/python3.11/site-packages/pybind11/include -I/data/data/com.termux/files/usr/include/python3.14 -fvisibility=hidden -fvisibility-inlines-hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c++17 -O3 -fPIC -DPY_ARRAY_UNIQUE_SYMBOL=MPL__image_ARRAY_API -MD -MQ src/_image.cpython-314-aarch64-linux-android.so.p/py_converters_11.cpp.o -MF src/_image.cpython-314-aarch64-linux-android.so.p/py_converters_11.cpp.o.d -o src/_image.cpython-314-aarch64-linux-android.so.p/py_converters_11.cpp.o -c ../src/py_converters_11.cpp",
+    "file": "../src/py_converters_11.cpp",
+    "output": "src/_image.cpython-314-aarch64-linux-android.so.p/py_converters_11.cpp.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache c++ -Isrc/_path.cpython-314-aarch64-linux-android.so.p -Isrc -I../src -I../../../usr/lib/python3.14/site-packages/numpy/_core/include -I../extern/agg24-svn/include -I/data/data/com.termux/files/usr/include/python3.14 -I/data/data/com.termux/files/usr/include/python3.11 -I/data/data/com.termux/files/usr/lib/python3.11/site-packages/pybind11/include -fvisibility=hidden -fvisibility-inlines-hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c++17 -O3 -fPIC -DNPY_NO_DEPRECATED_API=NPY_1_7_API_VERSION -D__STDC_FORMAT_MACROS=1 -DPY_ARRAY_UNIQUE_SYMBOL=MPL__path_ARRAY_API -MD -MQ src/_path.cpython-314-aarch64-linux-android.so.p/py_converters.cpp.o -MF src/_path.cpython-314-aarch64-linux-android.so.p/py_converters.cpp.o.d -o src/_path.cpython-314-aarch64-linux-android.so.p/py_converters.cpp.o -c ../src/py_converters.cpp",
+    "file": "../src/py_converters.cpp",
+    "output": "src/_path.cpython-314-aarch64-linux-android.so.p/py_converters.cpp.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache c++ -Isrc/_path.cpython-314-aarch64-linux-android.so.p -Isrc -I../src -I../../../usr/lib/python3.14/site-packages/numpy/_core/include -I../extern/agg24-svn/include -I/data/data/com.termux/files/usr/include/python3.14 -I/data/data/com.termux/files/usr/include/python3.11 -I/data/data/com.termux/files/usr/lib/python3.11/site-packages/pybind11/include -fvisibility=hidden -fvisibility-inlines-hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c++17 -O3 -fPIC -DNPY_NO_DEPRECATED_API=NPY_1_7_API_VERSION -D__STDC_FORMAT_MACROS=1 -DPY_ARRAY_UNIQUE_SYMBOL=MPL__path_ARRAY_API -MD -MQ src/_path.cpython-314-aarch64-linux-android.so.p/py_converters_11.cpp.o -MF src/_path.cpython-314-aarch64-linux-android.so.p/py_converters_11.cpp.o.d -o src/_path.cpython-314-aarch64-linux-android.so.p/py_converters_11.cpp.o -c ../src/py_converters_11.cpp",
+    "file": "../src/py_converters_11.cpp",
+    "output": "src/_path.cpython-314-aarch64-linux-android.so.p/py_converters_11.cpp.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache c++ -Isrc/_path.cpython-314-aarch64-linux-android.so.p -Isrc -I../src -I../../../usr/lib/python3.14/site-packages/numpy/_core/include -I../extern/agg24-svn/include -I/data/data/com.termux/files/usr/include/python3.14 -I/data/data/com.termux/files/usr/include/python3.11 -I/data/data/com.termux/files/usr/lib/python3.11/site-packages/pybind11/include -fvisibility=hidden -fvisibility-inlines-hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c++17 -O3 -fPIC -DNPY_NO_DEPRECATED_API=NPY_1_7_API_VERSION -D__STDC_FORMAT_MACROS=1 -DPY_ARRAY_UNIQUE_SYMBOL=MPL__path_ARRAY_API -MD -MQ src/_path.cpython-314-aarch64-linux-android.so.p/_path_wrapper.cpp.o -MF src/_path.cpython-314-aarch64-linux-android.so.p/_path_wrapper.cpp.o.d -o src/_path.cpython-314-aarch64-linux-android.so.p/_path_wrapper.cpp.o -c ../src/_path_wrapper.cpp",
+    "file": "../src/_path_wrapper.cpp",
+    "output": "src/_path.cpython-314-aarch64-linux-android.so.p/_path_wrapper.cpp.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache c++ -Isrc/_qhull.cpython-314-aarch64-linux-android.so.p -Isrc -I../src -I../subprojects/qhull-8.0.2/src -I/data/data/com.termux/files/usr/include/python3.11 -I/data/data/com.termux/files/usr/lib/python3.11/site-packages/pybind11/include -I/data/data/com.termux/files/usr/include/python3.14 -fvisibility=hidden -fvisibility-inlines-hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c++17 -O3 -fPIC -DPY_ARRAY_UNIQUE_SYMBOL=MPL__qhull_ARRAY_API -DMPL_DEVNULL=/dev/null -MD -MQ src/_qhull.cpython-314-aarch64-linux-android.so.p/_qhull_wrapper.cpp.o -MF src/_qhull.cpython-314-aarch64-linux-android.so.p/_qhull_wrapper.cpp.o.d -o src/_qhull.cpython-314-aarch64-linux-android.so.p/_qhull_wrapper.cpp.o -c ../src/_qhull_wrapper.cpp",
+    "file": "../src/_qhull_wrapper.cpp",
+    "output": "src/_qhull.cpython-314-aarch64-linux-android.so.p/_qhull_wrapper.cpp.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache c++ -Isrc/_tkagg.cpython-314-aarch64-linux-android.so.p -Isrc -I../src -I../extern/agg24-svn/include -I/data/data/com.termux/files/usr/include/python3.11 -I/data/data/com.termux/files/usr/lib/python3.11/site-packages/pybind11/include -I/data/data/com.termux/files/usr/include/python3.14 -fvisibility=hidden -fvisibility-inlines-hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c++17 -O3 -fPIC -DPY_ARRAY_UNIQUE_SYMBOL=MPL__tkagg_ARRAY_API -MD -MQ src/_tkagg.cpython-314-aarch64-linux-android.so.p/_tkagg.cpp.o -MF src/_tkagg.cpython-314-aarch64-linux-android.so.p/_tkagg.cpp.o.d -o src/_tkagg.cpython-314-aarch64-linux-android.so.p/_tkagg.cpp.o -c ../src/_tkagg.cpp",
+    "file": "../src/_tkagg.cpp",
+    "output": "src/_tkagg.cpython-314-aarch64-linux-android.so.p/_tkagg.cpp.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache c++ -Isrc/_tri.cpython-314-aarch64-linux-android.so.p -Isrc -I../src -I/data/data/com.termux/files/usr/include/python3.11 -I/data/data/com.termux/files/usr/lib/python3.11/site-packages/pybind11/include -I/data/data/com.termux/files/usr/include/python3.14 -fvisibility=hidden -fvisibility-inlines-hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c++17 -O3 -fPIC -DPY_ARRAY_UNIQUE_SYMBOL=MPL__tri_ARRAY_API -MD -MQ src/_tri.cpython-314-aarch64-linux-android.so.p/tri__tri.cpp.o -MF src/_tri.cpython-314-aarch64-linux-android.so.p/tri__tri.cpp.o.d -o src/_tri.cpython-314-aarch64-linux-android.so.p/tri__tri.cpp.o -c ../src/tri/_tri.cpp",
+    "file": "../src/tri/_tri.cpp",
+    "output": "src/_tri.cpython-314-aarch64-linux-android.so.p/tri__tri.cpp.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache c++ -Isrc/_tri.cpython-314-aarch64-linux-android.so.p -Isrc -I../src -I/data/data/com.termux/files/usr/include/python3.11 -I/data/data/com.termux/files/usr/lib/python3.11/site-packages/pybind11/include -I/data/data/com.termux/files/usr/include/python3.14 -fvisibility=hidden -fvisibility-inlines-hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c++17 -O3 -fPIC -DPY_ARRAY_UNIQUE_SYMBOL=MPL__tri_ARRAY_API -MD -MQ src/_tri.cpython-314-aarch64-linux-android.so.p/tri__tri_wrapper.cpp.o -MF src/_tri.cpython-314-aarch64-linux-android.so.p/tri__tri_wrapper.cpp.o.d -o src/_tri.cpython-314-aarch64-linux-android.so.p/tri__tri_wrapper.cpp.o -c ../src/tri/_tri_wrapper.cpp",
+    "file": "../src/tri/_tri_wrapper.cpp",
+    "output": "src/_tri.cpython-314-aarch64-linux-android.so.p/tri__tri_wrapper.cpp.o"
+  },
+  {
+    "directory": "/data/data/com.termux/files/home/matplotlib/build",
+    "command": "/data/data/com.termux/files/usr/bin/ccache c++ -Isrc/_ttconv.cpython-314-aarch64-linux-android.so.p -Isrc -I../src -Iextern/ttconv -I../extern/ttconv -I/data/data/com.termux/files/usr/include/python3.11 -I/data/data/com.termux/files/usr/lib/python3.11/site-packages/pybind11/include -I/data/data/com.termux/files/usr/include/python3.14 -fvisibility=hidden -fvisibility-inlines-hidden -flto -fdiagnostics-color=always -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -std=c++17 -O3 -fPIC -DPY_ARRAY_UNIQUE_SYMBOL=MPL__ttconv_ARRAY_API -MD -MQ src/_ttconv.cpython-314-aarch64-linux-android.so.p/_ttconv.cpp.o -MF src/_ttconv.cpython-314-aarch64-linux-android.so.p/_ttconv.cpp.o.d -o src/_ttconv.cpython-314-aarch64-linux-android.so.p/_ttconv.cpp.o -c ../src/_ttconv.cpp",
+    "file": "../src/_ttconv.cpp",
+    "output": "src/_ttconv.cpython-314-aarch64-linux-android.so.p/_ttconv.cpp.o"
+  }
+]

@@ -1,0 +1,2051 @@
+{
+  "targets": {
+    "/data/data/com.termux/files/home/matplotlib/build/src/_backend_agg.cpython-314-aarch64-linux-android.so": {
+      "destination": "{py_platlib}/matplotlib/backends/_backend_agg.cpython-314-aarch64-linux-android.so",
+      "tag": "runtime",
+      "subproject": null,
+      "install_rpath": null,
+      "build_rpaths": []
+    },
+    "/data/data/com.termux/files/home/matplotlib/build/src/_c_internal_utils.cpython-314-aarch64-linux-android.so": {
+      "destination": "{py_platlib}/matplotlib/_c_internal_utils.cpython-314-aarch64-linux-android.so",
+      "tag": "runtime",
+      "subproject": null,
+      "install_rpath": null,
+      "build_rpaths": []
+    },
+    "/data/data/com.termux/files/home/matplotlib/build/src/ft2font.cpython-314-aarch64-linux-android.so": {
+      "destination": "{py_platlib}/matplotlib/ft2font.cpython-314-aarch64-linux-android.so",
+      "tag": "runtime",
+      "subproject": null,
+      "install_rpath": null,
+      "build_rpaths": []
+    },
+    "/data/data/com.termux/files/home/matplotlib/build/src/_image.cpython-314-aarch64-linux-android.so": {
+      "destination": "{py_platlib}/matplotlib/_image.cpython-314-aarch64-linux-android.so",
+      "tag": "runtime",
+      "subproject": null,
+      "install_rpath": null,
+      "build_rpaths": []
+    },
+    "/data/data/com.termux/files/home/matplotlib/build/src/_path.cpython-314-aarch64-linux-android.so": {
+      "destination": "{py_platlib}/matplotlib/_path.cpython-314-aarch64-linux-android.so",
+      "tag": "runtime",
+      "subproject": null,
+      "install_rpath": null,
+      "build_rpaths": []
+    },
+    "/data/data/com.termux/files/home/matplotlib/build/src/_qhull.cpython-314-aarch64-linux-android.so": {
+      "destination": "{py_platlib}/matplotlib/_qhull.cpython-314-aarch64-linux-android.so",
+      "tag": "runtime",
+      "subproject": null,
+      "install_rpath": null,
+      "build_rpaths": []
+    },
+    "/data/data/com.termux/files/home/matplotlib/build/src/_tkagg.cpython-314-aarch64-linux-android.so": {
+      "destination": "{py_platlib}/matplotlib/backends/_tkagg.cpython-314-aarch64-linux-android.so",
+      "tag": "runtime",
+      "subproject": null,
+      "install_rpath": null,
+      "build_rpaths": []
+    },
+    "/data/data/com.termux/files/home/matplotlib/build/src/_tri.cpython-314-aarch64-linux-android.so": {
+      "destination": "{py_platlib}/matplotlib/_tri.cpython-314-aarch64-linux-android.so",
+      "tag": "runtime",
+      "subproject": null,
+      "install_rpath": null,
+      "build_rpaths": []
+    },
+    "/data/data/com.termux/files/home/matplotlib/build/src/_ttconv.cpython-314-aarch64-linux-android.so": {
+      "destination": "{py_platlib}/matplotlib/_ttconv.cpython-314-aarch64-linux-android.so",
+      "tag": "runtime",
+      "subproject": null,
+      "install_rpath": null,
+      "build_rpaths": []
+    },
+    "/data/data/com.termux/files/home/matplotlib/build/lib/matplotlib/mpl-data/matplotlibrc": {
+      "destination": "{py_platlib}/matplotlib/mpl-data/matplotlibrc",
+      "tag": "data",
+      "subproject": null,
+      "install_rpath": null,
+      "build_rpaths": []
+    }
+  },
+  "python": {
+    "/data/data/com.termux/files/home/matplotlib/lib/pylab.py": {
+      "destination": "{py_platlib}/pylab.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/__init__.py": {
+      "destination": "{py_platlib}/matplotlib/__init__.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/_afm.py": {
+      "destination": "{py_platlib}/matplotlib/_afm.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/_animation_data.py": {
+      "destination": "{py_platlib}/matplotlib/_animation_data.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/_blocking_input.py": {
+      "destination": "{py_platlib}/matplotlib/_blocking_input.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/_cm.py": {
+      "destination": "{py_platlib}/matplotlib/_cm.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/_cm_listed.py": {
+      "destination": "{py_platlib}/matplotlib/_cm_listed.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/_color_data.py": {
+      "destination": "{py_platlib}/matplotlib/_color_data.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/_constrained_layout.py": {
+      "destination": "{py_platlib}/matplotlib/_constrained_layout.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/_docstring.py": {
+      "destination": "{py_platlib}/matplotlib/_docstring.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/_enums.py": {
+      "destination": "{py_platlib}/matplotlib/_enums.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/_fontconfig_pattern.py": {
+      "destination": "{py_platlib}/matplotlib/_fontconfig_pattern.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/_internal_utils.py": {
+      "destination": "{py_platlib}/matplotlib/_internal_utils.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/_layoutgrid.py": {
+      "destination": "{py_platlib}/matplotlib/_layoutgrid.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/_mathtext.py": {
+      "destination": "{py_platlib}/matplotlib/_mathtext.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/_mathtext_data.py": {
+      "destination": "{py_platlib}/matplotlib/_mathtext_data.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/_pylab_helpers.py": {
+      "destination": "{py_platlib}/matplotlib/_pylab_helpers.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/_text_helpers.py": {
+      "destination": "{py_platlib}/matplotlib/_text_helpers.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/_tight_bbox.py": {
+      "destination": "{py_platlib}/matplotlib/_tight_bbox.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/_tight_layout.py": {
+      "destination": "{py_platlib}/matplotlib/_tight_layout.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/_type1font.py": {
+      "destination": "{py_platlib}/matplotlib/_type1font.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/animation.py": {
+      "destination": "{py_platlib}/matplotlib/animation.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/artist.py": {
+      "destination": "{py_platlib}/matplotlib/artist.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/axis.py": {
+      "destination": "{py_platlib}/matplotlib/axis.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backend_bases.py": {
+      "destination": "{py_platlib}/matplotlib/backend_bases.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backend_managers.py": {
+      "destination": "{py_platlib}/matplotlib/backend_managers.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backend_tools.py": {
+      "destination": "{py_platlib}/matplotlib/backend_tools.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/bezier.py": {
+      "destination": "{py_platlib}/matplotlib/bezier.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/category.py": {
+      "destination": "{py_platlib}/matplotlib/category.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/cbook.py": {
+      "destination": "{py_platlib}/matplotlib/cbook.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/cm.py": {
+      "destination": "{py_platlib}/matplotlib/cm.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/collections.py": {
+      "destination": "{py_platlib}/matplotlib/collections.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/colorbar.py": {
+      "destination": "{py_platlib}/matplotlib/colorbar.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/colors.py": {
+      "destination": "{py_platlib}/matplotlib/colors.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/container.py": {
+      "destination": "{py_platlib}/matplotlib/container.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/contour.py": {
+      "destination": "{py_platlib}/matplotlib/contour.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/dates.py": {
+      "destination": "{py_platlib}/matplotlib/dates.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/dviread.py": {
+      "destination": "{py_platlib}/matplotlib/dviread.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/figure.py": {
+      "destination": "{py_platlib}/matplotlib/figure.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/font_manager.py": {
+      "destination": "{py_platlib}/matplotlib/font_manager.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/gridspec.py": {
+      "destination": "{py_platlib}/matplotlib/gridspec.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/hatch.py": {
+      "destination": "{py_platlib}/matplotlib/hatch.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/image.py": {
+      "destination": "{py_platlib}/matplotlib/image.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/layout_engine.py": {
+      "destination": "{py_platlib}/matplotlib/layout_engine.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/legend_handler.py": {
+      "destination": "{py_platlib}/matplotlib/legend_handler.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/legend.py": {
+      "destination": "{py_platlib}/matplotlib/legend.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/lines.py": {
+      "destination": "{py_platlib}/matplotlib/lines.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/markers.py": {
+      "destination": "{py_platlib}/matplotlib/markers.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/mathtext.py": {
+      "destination": "{py_platlib}/matplotlib/mathtext.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/mlab.py": {
+      "destination": "{py_platlib}/matplotlib/mlab.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/offsetbox.py": {
+      "destination": "{py_platlib}/matplotlib/offsetbox.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/patches.py": {
+      "destination": "{py_platlib}/matplotlib/patches.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/patheffects.py": {
+      "destination": "{py_platlib}/matplotlib/patheffects.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/path.py": {
+      "destination": "{py_platlib}/matplotlib/path.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/pylab.py": {
+      "destination": "{py_platlib}/matplotlib/pylab.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/pyplot.py": {
+      "destination": "{py_platlib}/matplotlib/pyplot.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/quiver.py": {
+      "destination": "{py_platlib}/matplotlib/quiver.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/rcsetup.py": {
+      "destination": "{py_platlib}/matplotlib/rcsetup.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/sankey.py": {
+      "destination": "{py_platlib}/matplotlib/sankey.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/scale.py": {
+      "destination": "{py_platlib}/matplotlib/scale.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/spines.py": {
+      "destination": "{py_platlib}/matplotlib/spines.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/stackplot.py": {
+      "destination": "{py_platlib}/matplotlib/stackplot.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/streamplot.py": {
+      "destination": "{py_platlib}/matplotlib/streamplot.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/table.py": {
+      "destination": "{py_platlib}/matplotlib/table.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/texmanager.py": {
+      "destination": "{py_platlib}/matplotlib/texmanager.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/textpath.py": {
+      "destination": "{py_platlib}/matplotlib/textpath.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/text.py": {
+      "destination": "{py_platlib}/matplotlib/text.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/ticker.py": {
+      "destination": "{py_platlib}/matplotlib/ticker.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/transforms.py": {
+      "destination": "{py_platlib}/matplotlib/transforms.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/typing.py": {
+      "destination": "{py_platlib}/matplotlib/typing.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/units.py": {
+      "destination": "{py_platlib}/matplotlib/units.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/widgets.py": {
+      "destination": "{py_platlib}/matplotlib/widgets.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/py.typed": {
+      "destination": "{py_platlib}/matplotlib/py.typed",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/_c_internal_utils.pyi": {
+      "destination": "{py_platlib}/matplotlib/_c_internal_utils.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/ft2font.pyi": {
+      "destination": "{py_platlib}/matplotlib/ft2font.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/_image.pyi": {
+      "destination": "{py_platlib}/matplotlib/_image.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/_qhull.pyi": {
+      "destination": "{py_platlib}/matplotlib/_qhull.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/_tri.pyi": {
+      "destination": "{py_platlib}/matplotlib/_tri.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/__init__.pyi": {
+      "destination": "{py_platlib}/matplotlib/__init__.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/_color_data.pyi": {
+      "destination": "{py_platlib}/matplotlib/_color_data.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/_docstring.pyi": {
+      "destination": "{py_platlib}/matplotlib/_docstring.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/_enums.pyi": {
+      "destination": "{py_platlib}/matplotlib/_enums.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/_path.pyi": {
+      "destination": "{py_platlib}/matplotlib/_path.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/_pylab_helpers.pyi": {
+      "destination": "{py_platlib}/matplotlib/_pylab_helpers.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/_ttconv.pyi": {
+      "destination": "{py_platlib}/matplotlib/_ttconv.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/animation.pyi": {
+      "destination": "{py_platlib}/matplotlib/animation.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/artist.pyi": {
+      "destination": "{py_platlib}/matplotlib/artist.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/axis.pyi": {
+      "destination": "{py_platlib}/matplotlib/axis.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backend_bases.pyi": {
+      "destination": "{py_platlib}/matplotlib/backend_bases.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backend_managers.pyi": {
+      "destination": "{py_platlib}/matplotlib/backend_managers.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backend_tools.pyi": {
+      "destination": "{py_platlib}/matplotlib/backend_tools.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/bezier.pyi": {
+      "destination": "{py_platlib}/matplotlib/bezier.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/cbook.pyi": {
+      "destination": "{py_platlib}/matplotlib/cbook.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/cm.pyi": {
+      "destination": "{py_platlib}/matplotlib/cm.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/collections.pyi": {
+      "destination": "{py_platlib}/matplotlib/collections.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/colorbar.pyi": {
+      "destination": "{py_platlib}/matplotlib/colorbar.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/colors.pyi": {
+      "destination": "{py_platlib}/matplotlib/colors.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/container.pyi": {
+      "destination": "{py_platlib}/matplotlib/container.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/contour.pyi": {
+      "destination": "{py_platlib}/matplotlib/contour.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/dviread.pyi": {
+      "destination": "{py_platlib}/matplotlib/dviread.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/figure.pyi": {
+      "destination": "{py_platlib}/matplotlib/figure.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/font_manager.pyi": {
+      "destination": "{py_platlib}/matplotlib/font_manager.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/gridspec.pyi": {
+      "destination": "{py_platlib}/matplotlib/gridspec.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/hatch.pyi": {
+      "destination": "{py_platlib}/matplotlib/hatch.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/image.pyi": {
+      "destination": "{py_platlib}/matplotlib/image.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/layout_engine.pyi": {
+      "destination": "{py_platlib}/matplotlib/layout_engine.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/legend_handler.pyi": {
+      "destination": "{py_platlib}/matplotlib/legend_handler.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/legend.pyi": {
+      "destination": "{py_platlib}/matplotlib/legend.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/lines.pyi": {
+      "destination": "{py_platlib}/matplotlib/lines.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/markers.pyi": {
+      "destination": "{py_platlib}/matplotlib/markers.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/mathtext.pyi": {
+      "destination": "{py_platlib}/matplotlib/mathtext.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/mlab.pyi": {
+      "destination": "{py_platlib}/matplotlib/mlab.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/offsetbox.pyi": {
+      "destination": "{py_platlib}/matplotlib/offsetbox.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/patches.pyi": {
+      "destination": "{py_platlib}/matplotlib/patches.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/patheffects.pyi": {
+      "destination": "{py_platlib}/matplotlib/patheffects.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/path.pyi": {
+      "destination": "{py_platlib}/matplotlib/path.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/quiver.pyi": {
+      "destination": "{py_platlib}/matplotlib/quiver.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/rcsetup.pyi": {
+      "destination": "{py_platlib}/matplotlib/rcsetup.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/sankey.pyi": {
+      "destination": "{py_platlib}/matplotlib/sankey.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/scale.pyi": {
+      "destination": "{py_platlib}/matplotlib/scale.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/spines.pyi": {
+      "destination": "{py_platlib}/matplotlib/spines.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/stackplot.pyi": {
+      "destination": "{py_platlib}/matplotlib/stackplot.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/streamplot.pyi": {
+      "destination": "{py_platlib}/matplotlib/streamplot.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/table.pyi": {
+      "destination": "{py_platlib}/matplotlib/table.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/texmanager.pyi": {
+      "destination": "{py_platlib}/matplotlib/texmanager.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/textpath.pyi": {
+      "destination": "{py_platlib}/matplotlib/textpath.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/text.pyi": {
+      "destination": "{py_platlib}/matplotlib/text.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/ticker.pyi": {
+      "destination": "{py_platlib}/matplotlib/ticker.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/transforms.pyi": {
+      "destination": "{py_platlib}/matplotlib/transforms.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/widgets.pyi": {
+      "destination": "{py_platlib}/matplotlib/widgets.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/_api/__init__.py": {
+      "destination": "{py_platlib}/matplotlib/_api/__init__.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/_api/deprecation.py": {
+      "destination": "{py_platlib}/matplotlib/_api/deprecation.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/_api/__init__.pyi": {
+      "destination": "{py_platlib}/matplotlib/_api/__init__.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/_api/deprecation.pyi": {
+      "destination": "{py_platlib}/matplotlib/_api/deprecation.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/axes/__init__.py": {
+      "destination": "{py_platlib}/matplotlib/axes/__init__.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/axes/_axes.py": {
+      "destination": "{py_platlib}/matplotlib/axes/_axes.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/axes/_base.py": {
+      "destination": "{py_platlib}/matplotlib/axes/_base.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/axes/_secondary_axes.py": {
+      "destination": "{py_platlib}/matplotlib/axes/_secondary_axes.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/axes/__init__.pyi": {
+      "destination": "{py_platlib}/matplotlib/axes/__init__.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/axes/_axes.pyi": {
+      "destination": "{py_platlib}/matplotlib/axes/_axes.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/axes/_base.pyi": {
+      "destination": "{py_platlib}/matplotlib/axes/_base.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/axes/_secondary_axes.pyi": {
+      "destination": "{py_platlib}/matplotlib/axes/_secondary_axes.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backends/__init__.py": {
+      "destination": "{py_platlib}/matplotlib/backends/__init__.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backends/backend_agg.py": {
+      "destination": "{py_platlib}/matplotlib/backends/backend_agg.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backends/backend_cairo.py": {
+      "destination": "{py_platlib}/matplotlib/backends/backend_cairo.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backends/_backend_gtk.py": {
+      "destination": "{py_platlib}/matplotlib/backends/_backend_gtk.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backends/backend_gtk3.py": {
+      "destination": "{py_platlib}/matplotlib/backends/backend_gtk3.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backends/backend_gtk3agg.py": {
+      "destination": "{py_platlib}/matplotlib/backends/backend_gtk3agg.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backends/backend_gtk3cairo.py": {
+      "destination": "{py_platlib}/matplotlib/backends/backend_gtk3cairo.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backends/backend_gtk4.py": {
+      "destination": "{py_platlib}/matplotlib/backends/backend_gtk4.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backends/backend_gtk4agg.py": {
+      "destination": "{py_platlib}/matplotlib/backends/backend_gtk4agg.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backends/backend_gtk4cairo.py": {
+      "destination": "{py_platlib}/matplotlib/backends/backend_gtk4cairo.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backends/backend_macosx.py": {
+      "destination": "{py_platlib}/matplotlib/backends/backend_macosx.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backends/backend_mixed.py": {
+      "destination": "{py_platlib}/matplotlib/backends/backend_mixed.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backends/backend_nbagg.py": {
+      "destination": "{py_platlib}/matplotlib/backends/backend_nbagg.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backends/_backend_pdf_ps.py": {
+      "destination": "{py_platlib}/matplotlib/backends/_backend_pdf_ps.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backends/backend_pdf.py": {
+      "destination": "{py_platlib}/matplotlib/backends/backend_pdf.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backends/backend_pgf.py": {
+      "destination": "{py_platlib}/matplotlib/backends/backend_pgf.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backends/backend_ps.py": {
+      "destination": "{py_platlib}/matplotlib/backends/backend_ps.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backends/backend_qt.py": {
+      "destination": "{py_platlib}/matplotlib/backends/backend_qt.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backends/backend_qtagg.py": {
+      "destination": "{py_platlib}/matplotlib/backends/backend_qtagg.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backends/backend_qtcairo.py": {
+      "destination": "{py_platlib}/matplotlib/backends/backend_qtcairo.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backends/backend_qt5.py": {
+      "destination": "{py_platlib}/matplotlib/backends/backend_qt5.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backends/backend_qt5agg.py": {
+      "destination": "{py_platlib}/matplotlib/backends/backend_qt5agg.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backends/backend_qt5cairo.py": {
+      "destination": "{py_platlib}/matplotlib/backends/backend_qt5cairo.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backends/backend_svg.py": {
+      "destination": "{py_platlib}/matplotlib/backends/backend_svg.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backends/backend_template.py": {
+      "destination": "{py_platlib}/matplotlib/backends/backend_template.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backends/_backend_tk.py": {
+      "destination": "{py_platlib}/matplotlib/backends/_backend_tk.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backends/backend_tkagg.py": {
+      "destination": "{py_platlib}/matplotlib/backends/backend_tkagg.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backends/backend_tkcairo.py": {
+      "destination": "{py_platlib}/matplotlib/backends/backend_tkcairo.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backends/backend_webagg.py": {
+      "destination": "{py_platlib}/matplotlib/backends/backend_webagg.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backends/backend_webagg_core.py": {
+      "destination": "{py_platlib}/matplotlib/backends/backend_webagg_core.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backends/backend_wx.py": {
+      "destination": "{py_platlib}/matplotlib/backends/backend_wx.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backends/backend_wxagg.py": {
+      "destination": "{py_platlib}/matplotlib/backends/backend_wxagg.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backends/backend_wxcairo.py": {
+      "destination": "{py_platlib}/matplotlib/backends/backend_wxcairo.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backends/qt_compat.py": {
+      "destination": "{py_platlib}/matplotlib/backends/qt_compat.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backends/registry.py": {
+      "destination": "{py_platlib}/matplotlib/backends/registry.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backends/_backend_agg.pyi": {
+      "destination": "{py_platlib}/matplotlib/backends/_backend_agg.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backends/_macosx.pyi": {
+      "destination": "{py_platlib}/matplotlib/backends/_macosx.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backends/_tkagg.pyi": {
+      "destination": "{py_platlib}/matplotlib/backends/_tkagg.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backends/qt_editor/__init__.py": {
+      "destination": "{py_platlib}/matplotlib/backends/qt_editor/__init__.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backends/qt_editor/_formlayout.py": {
+      "destination": "{py_platlib}/matplotlib/backends/qt_editor/_formlayout.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backends/qt_editor/figureoptions.py": {
+      "destination": "{py_platlib}/matplotlib/backends/qt_editor/figureoptions.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/projections/__init__.py": {
+      "destination": "{py_platlib}/matplotlib/projections/__init__.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/projections/geo.py": {
+      "destination": "{py_platlib}/matplotlib/projections/geo.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/projections/polar.py": {
+      "destination": "{py_platlib}/matplotlib/projections/polar.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/projections/__init__.pyi": {
+      "destination": "{py_platlib}/matplotlib/projections/__init__.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/projections/geo.pyi": {
+      "destination": "{py_platlib}/matplotlib/projections/geo.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/projections/polar.pyi": {
+      "destination": "{py_platlib}/matplotlib/projections/polar.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/sphinxext/__init__.py": {
+      "destination": "{py_platlib}/matplotlib/sphinxext/__init__.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/sphinxext/figmpl_directive.py": {
+      "destination": "{py_platlib}/matplotlib/sphinxext/figmpl_directive.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/sphinxext/mathmpl.py": {
+      "destination": "{py_platlib}/matplotlib/sphinxext/mathmpl.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/sphinxext/plot_directive.py": {
+      "destination": "{py_platlib}/matplotlib/sphinxext/plot_directive.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/sphinxext/roles.py": {
+      "destination": "{py_platlib}/matplotlib/sphinxext/roles.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/style/__init__.py": {
+      "destination": "{py_platlib}/matplotlib/style/__init__.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/style/core.py": {
+      "destination": "{py_platlib}/matplotlib/style/core.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/style/core.pyi": {
+      "destination": "{py_platlib}/matplotlib/style/core.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/testing/__init__.py": {
+      "destination": "{py_platlib}/matplotlib/testing/__init__.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/testing/_markers.py": {
+      "destination": "{py_platlib}/matplotlib/testing/_markers.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/testing/compare.py": {
+      "destination": "{py_platlib}/matplotlib/testing/compare.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/testing/conftest.py": {
+      "destination": "{py_platlib}/matplotlib/testing/conftest.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/testing/decorators.py": {
+      "destination": "{py_platlib}/matplotlib/testing/decorators.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/testing/exceptions.py": {
+      "destination": "{py_platlib}/matplotlib/testing/exceptions.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/testing/widgets.py": {
+      "destination": "{py_platlib}/matplotlib/testing/widgets.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/testing/__init__.pyi": {
+      "destination": "{py_platlib}/matplotlib/testing/__init__.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/testing/compare.pyi": {
+      "destination": "{py_platlib}/matplotlib/testing/compare.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/testing/conftest.pyi": {
+      "destination": "{py_platlib}/matplotlib/testing/conftest.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/testing/decorators.pyi": {
+      "destination": "{py_platlib}/matplotlib/testing/decorators.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/testing/widgets.pyi": {
+      "destination": "{py_platlib}/matplotlib/testing/widgets.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/testing/jpl_units/__init__.py": {
+      "destination": "{py_platlib}/matplotlib/testing/jpl_units/__init__.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/testing/jpl_units/Duration.py": {
+      "destination": "{py_platlib}/matplotlib/testing/jpl_units/Duration.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/testing/jpl_units/EpochConverter.py": {
+      "destination": "{py_platlib}/matplotlib/testing/jpl_units/EpochConverter.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/testing/jpl_units/Epoch.py": {
+      "destination": "{py_platlib}/matplotlib/testing/jpl_units/Epoch.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/testing/jpl_units/StrConverter.py": {
+      "destination": "{py_platlib}/matplotlib/testing/jpl_units/StrConverter.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/testing/jpl_units/UnitDblConverter.py": {
+      "destination": "{py_platlib}/matplotlib/testing/jpl_units/UnitDblConverter.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/testing/jpl_units/UnitDblFormatter.py": {
+      "destination": "{py_platlib}/matplotlib/testing/jpl_units/UnitDblFormatter.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/testing/jpl_units/UnitDbl.py": {
+      "destination": "{py_platlib}/matplotlib/testing/jpl_units/UnitDbl.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/__init__.py": {
+      "destination": "{py_platlib}/matplotlib/tests/__init__.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/conftest.py": {
+      "destination": "{py_platlib}/matplotlib/tests/conftest.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_afm.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_afm.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_agg_filter.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_agg_filter.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_agg.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_agg.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_animation.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_animation.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_api.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_api.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_arrow_patches.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_arrow_patches.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_artist.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_artist.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_axes.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_axes.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_axis.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_axis.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_backend_bases.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_backend_bases.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_backend_cairo.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_backend_cairo.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_backend_gtk3.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_backend_gtk3.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_backend_macosx.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_backend_macosx.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_backend_nbagg.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_backend_nbagg.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_backend_pdf.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_backend_pdf.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_backend_pgf.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_backend_pgf.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_backend_ps.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_backend_ps.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_backend_qt.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_backend_qt.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_backends_interactive.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_backends_interactive.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_backend_svg.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_backend_svg.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_backend_template.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_backend_template.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_backend_tk.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_backend_tk.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_backend_tools.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_backend_tools.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_backend_webagg.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_backend_webagg.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_basic.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_basic.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_bbox_tight.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_bbox_tight.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_category.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_category.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_cbook.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_cbook.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_collections.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_collections.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_colorbar.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_colorbar.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_colors.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_colors.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_compare_images.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_compare_images.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_constrainedlayout.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_constrainedlayout.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_container.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_container.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_contour.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_contour.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_cycles.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_cycles.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_dates.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_dates.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_datetime.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_datetime.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_determinism.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_determinism.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_doc.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_doc.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_dviread.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_dviread.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_figure.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_figure.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_fontconfig_pattern.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_fontconfig_pattern.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_font_manager.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_font_manager.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_ft2font.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_ft2font.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_getattr.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_getattr.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_gridspec.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_gridspec.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_image.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_image.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_legend.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_legend.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_lines.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_lines.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_marker.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_marker.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_mathtext.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_mathtext.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_matplotlib.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_matplotlib.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_mlab.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_mlab.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_offsetbox.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_offsetbox.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_patches.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_patches.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_patheffects.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_patheffects.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_path.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_path.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_pickle.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_pickle.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_png.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_png.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_polar.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_polar.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_preprocess_data.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_preprocess_data.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_pyplot.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_pyplot.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_quiver.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_quiver.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_rcparams.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_rcparams.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_sankey.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_sankey.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_scale.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_scale.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_simplification.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_simplification.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_skew.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_skew.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_sphinxext.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_sphinxext.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_spines.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_spines.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_streamplot.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_streamplot.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_style.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_style.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_subplots.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_subplots.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_table.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_table.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_testing.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_testing.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_texmanager.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_texmanager.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_textpath.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_textpath.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_text.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_text.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_ticker.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_ticker.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_tightlayout.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_tightlayout.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_transforms.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_transforms.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_triangulation.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_triangulation.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_ttconv.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_ttconv.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_type1font.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_type1font.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_units.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_units.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_usetex.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_usetex.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_widgets.py": {
+      "destination": "{py_platlib}/matplotlib/tests/test_widgets.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tri/__init__.py": {
+      "destination": "{py_platlib}/matplotlib/tri/__init__.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tri/_triangulation.py": {
+      "destination": "{py_platlib}/matplotlib/tri/_triangulation.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tri/_tricontour.py": {
+      "destination": "{py_platlib}/matplotlib/tri/_tricontour.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tri/_trifinder.py": {
+      "destination": "{py_platlib}/matplotlib/tri/_trifinder.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tri/_triinterpolate.py": {
+      "destination": "{py_platlib}/matplotlib/tri/_triinterpolate.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tri/_tripcolor.py": {
+      "destination": "{py_platlib}/matplotlib/tri/_tripcolor.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tri/_triplot.py": {
+      "destination": "{py_platlib}/matplotlib/tri/_triplot.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tri/_trirefine.py": {
+      "destination": "{py_platlib}/matplotlib/tri/_trirefine.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tri/_tritools.py": {
+      "destination": "{py_platlib}/matplotlib/tri/_tritools.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tri/_triangulation.pyi": {
+      "destination": "{py_platlib}/matplotlib/tri/_triangulation.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tri/_tricontour.pyi": {
+      "destination": "{py_platlib}/matplotlib/tri/_tricontour.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tri/_trifinder.pyi": {
+      "destination": "{py_platlib}/matplotlib/tri/_trifinder.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tri/_triinterpolate.pyi": {
+      "destination": "{py_platlib}/matplotlib/tri/_triinterpolate.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tri/_tripcolor.pyi": {
+      "destination": "{py_platlib}/matplotlib/tri/_tripcolor.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tri/_triplot.pyi": {
+      "destination": "{py_platlib}/matplotlib/tri/_triplot.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tri/_trirefine.pyi": {
+      "destination": "{py_platlib}/matplotlib/tri/_trirefine.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tri/_tritools.pyi": {
+      "destination": "{py_platlib}/matplotlib/tri/_tritools.pyi",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/mpl_toolkits/axes_grid1/__init__.py": {
+      "destination": "{py_platlib}/mpl_toolkits/axes_grid1/__init__.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/mpl_toolkits/axes_grid1/anchored_artists.py": {
+      "destination": "{py_platlib}/mpl_toolkits/axes_grid1/anchored_artists.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/mpl_toolkits/axes_grid1/axes_divider.py": {
+      "destination": "{py_platlib}/mpl_toolkits/axes_grid1/axes_divider.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/mpl_toolkits/axes_grid1/axes_grid.py": {
+      "destination": "{py_platlib}/mpl_toolkits/axes_grid1/axes_grid.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/mpl_toolkits/axes_grid1/axes_rgb.py": {
+      "destination": "{py_platlib}/mpl_toolkits/axes_grid1/axes_rgb.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/mpl_toolkits/axes_grid1/axes_size.py": {
+      "destination": "{py_platlib}/mpl_toolkits/axes_grid1/axes_size.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/mpl_toolkits/axes_grid1/inset_locator.py": {
+      "destination": "{py_platlib}/mpl_toolkits/axes_grid1/inset_locator.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/mpl_toolkits/axes_grid1/mpl_axes.py": {
+      "destination": "{py_platlib}/mpl_toolkits/axes_grid1/mpl_axes.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/mpl_toolkits/axes_grid1/parasite_axes.py": {
+      "destination": "{py_platlib}/mpl_toolkits/axes_grid1/parasite_axes.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/mpl_toolkits/axes_grid1/tests/__init__.py": {
+      "destination": "{py_platlib}/mpl_toolkits/axes_grid1/tests/__init__.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/mpl_toolkits/axes_grid1/tests/conftest.py": {
+      "destination": "{py_platlib}/mpl_toolkits/axes_grid1/tests/conftest.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/mpl_toolkits/axes_grid1/tests/test_axes_grid1.py": {
+      "destination": "{py_platlib}/mpl_toolkits/axes_grid1/tests/test_axes_grid1.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/mpl_toolkits/axisartist/__init__.py": {
+      "destination": "{py_platlib}/mpl_toolkits/axisartist/__init__.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/mpl_toolkits/axisartist/angle_helper.py": {
+      "destination": "{py_platlib}/mpl_toolkits/axisartist/angle_helper.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/mpl_toolkits/axisartist/axes_divider.py": {
+      "destination": "{py_platlib}/mpl_toolkits/axisartist/axes_divider.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/mpl_toolkits/axisartist/axes_grid.py": {
+      "destination": "{py_platlib}/mpl_toolkits/axisartist/axes_grid.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/mpl_toolkits/axisartist/axes_rgb.py": {
+      "destination": "{py_platlib}/mpl_toolkits/axisartist/axes_rgb.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/mpl_toolkits/axisartist/axis_artist.py": {
+      "destination": "{py_platlib}/mpl_toolkits/axisartist/axis_artist.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/mpl_toolkits/axisartist/axislines.py": {
+      "destination": "{py_platlib}/mpl_toolkits/axisartist/axislines.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/mpl_toolkits/axisartist/axisline_style.py": {
+      "destination": "{py_platlib}/mpl_toolkits/axisartist/axisline_style.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/mpl_toolkits/axisartist/floating_axes.py": {
+      "destination": "{py_platlib}/mpl_toolkits/axisartist/floating_axes.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/mpl_toolkits/axisartist/grid_finder.py": {
+      "destination": "{py_platlib}/mpl_toolkits/axisartist/grid_finder.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/mpl_toolkits/axisartist/grid_helper_curvelinear.py": {
+      "destination": "{py_platlib}/mpl_toolkits/axisartist/grid_helper_curvelinear.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/mpl_toolkits/axisartist/parasite_axes.py": {
+      "destination": "{py_platlib}/mpl_toolkits/axisartist/parasite_axes.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/mpl_toolkits/axisartist/tests/__init__.py": {
+      "destination": "{py_platlib}/mpl_toolkits/axisartist/tests/__init__.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/mpl_toolkits/axisartist/tests/conftest.py": {
+      "destination": "{py_platlib}/mpl_toolkits/axisartist/tests/conftest.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/mpl_toolkits/axisartist/tests/test_angle_helper.py": {
+      "destination": "{py_platlib}/mpl_toolkits/axisartist/tests/test_angle_helper.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/mpl_toolkits/axisartist/tests/test_axis_artist.py": {
+      "destination": "{py_platlib}/mpl_toolkits/axisartist/tests/test_axis_artist.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/mpl_toolkits/axisartist/tests/test_axislines.py": {
+      "destination": "{py_platlib}/mpl_toolkits/axisartist/tests/test_axislines.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/mpl_toolkits/axisartist/tests/test_floating_axes.py": {
+      "destination": "{py_platlib}/mpl_toolkits/axisartist/tests/test_floating_axes.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/mpl_toolkits/axisartist/tests/test_grid_finder.py": {
+      "destination": "{py_platlib}/mpl_toolkits/axisartist/tests/test_grid_finder.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/mpl_toolkits/axisartist/tests/test_grid_helper_curvelinear.py": {
+      "destination": "{py_platlib}/mpl_toolkits/axisartist/tests/test_grid_helper_curvelinear.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/mpl_toolkits/mplot3d/__init__.py": {
+      "destination": "{py_platlib}/mpl_toolkits/mplot3d/__init__.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/mpl_toolkits/mplot3d/art3d.py": {
+      "destination": "{py_platlib}/mpl_toolkits/mplot3d/art3d.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/mpl_toolkits/mplot3d/axes3d.py": {
+      "destination": "{py_platlib}/mpl_toolkits/mplot3d/axes3d.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/mpl_toolkits/mplot3d/axis3d.py": {
+      "destination": "{py_platlib}/mpl_toolkits/mplot3d/axis3d.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/mpl_toolkits/mplot3d/proj3d.py": {
+      "destination": "{py_platlib}/mpl_toolkits/mplot3d/proj3d.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/mpl_toolkits/mplot3d/tests/__init__.py": {
+      "destination": "{py_platlib}/mpl_toolkits/mplot3d/tests/__init__.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/mpl_toolkits/mplot3d/tests/conftest.py": {
+      "destination": "{py_platlib}/mpl_toolkits/mplot3d/tests/conftest.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/mpl_toolkits/mplot3d/tests/test_art3d.py": {
+      "destination": "{py_platlib}/mpl_toolkits/mplot3d/tests/test_art3d.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/mpl_toolkits/mplot3d/tests/test_axes3d.py": {
+      "destination": "{py_platlib}/mpl_toolkits/mplot3d/tests/test_axes3d.py",
+      "tag": "python-runtime",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/mpl_toolkits/mplot3d/tests/test_legend3d.py": {
+      "destination": "{py_platlib}/mpl_toolkits/mplot3d/tests/test_legend3d.py",
+      "tag": "python-runtime",
+      "subproject": null
+    }
+  },
+  "configure": {
+    "/data/data/com.termux/files/home/matplotlib/build/lib/matplotlib/_version.py": {
+      "destination": "{py_platlib}/matplotlib/_version.py",
+      "tag": "python-runtime",
+      "subproject": null
+    }
+  },
+  "data": {
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backends/web_backend/all_figures.html": {
+      "destination": "{py_platlib}/matplotlib/backends/web_backend/all_figures.html",
+      "tag": "data",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backends/web_backend/ipython_inline_figure.html": {
+      "destination": "{py_platlib}/matplotlib/backends/web_backend/ipython_inline_figure.html",
+      "tag": "data",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backends/web_backend/single_figure.html": {
+      "destination": "{py_platlib}/matplotlib/backends/web_backend/single_figure.html",
+      "tag": "data",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backends/web_backend/nbagg_uat.ipynb": {
+      "destination": "{py_platlib}/matplotlib/backends/web_backend/nbagg_uat.ipynb",
+      "tag": "tests",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/mpl-data/kpsewhich.lua": {
+      "destination": "{py_platlib}/matplotlib/mpl-data/kpsewhich.lua",
+      "tag": "data",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/README": {
+      "destination": "{py_platlib}/matplotlib/tests/README",
+      "tag": "tests",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/Courier10PitchBT-Bold.pfb": {
+      "destination": "{py_platlib}/matplotlib/tests/Courier10PitchBT-Bold.pfb",
+      "tag": "tests",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/cmr10.pfb": {
+      "destination": "{py_platlib}/matplotlib/tests/cmr10.pfb",
+      "tag": "tests",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/mpltest.ttf": {
+      "destination": "{py_platlib}/matplotlib/tests/mpltest.ttf",
+      "tag": "tests",
+      "subproject": null
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/test_nbagg_01.ipynb": {
+      "destination": "{py_platlib}/matplotlib/tests/test_nbagg_01.ipynb",
+      "tag": "tests",
+      "subproject": null
+    }
+  },
+  "install_subdirs": {
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backends/web_backend/css": {
+      "destination": "{py_platlib}/matplotlib/backends/web_backend/css",
+      "tag": "data",
+      "subproject": null,
+      "exclude_dirs": [],
+      "exclude_files": []
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/backends/web_backend/js": {
+      "destination": "{py_platlib}/matplotlib/backends/web_backend/js",
+      "tag": "data",
+      "subproject": null,
+      "exclude_dirs": [],
+      "exclude_files": []
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/mpl-data/fonts": {
+      "destination": "{py_platlib}/matplotlib/mpl-data/fonts",
+      "tag": "data",
+      "subproject": null,
+      "exclude_dirs": [],
+      "exclude_files": []
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/mpl-data/images": {
+      "destination": "{py_platlib}/matplotlib/mpl-data/images",
+      "tag": "data",
+      "subproject": null,
+      "exclude_dirs": [],
+      "exclude_files": []
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/mpl-data/plot_directive": {
+      "destination": "{py_platlib}/matplotlib/mpl-data/plot_directive",
+      "tag": "data",
+      "subproject": null,
+      "exclude_dirs": [],
+      "exclude_files": []
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/mpl-data/sample_data": {
+      "destination": "{py_platlib}/matplotlib/mpl-data/sample_data",
+      "tag": "data",
+      "subproject": null,
+      "exclude_dirs": [],
+      "exclude_files": []
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/mpl-data/stylelib": {
+      "destination": "{py_platlib}/matplotlib/mpl-data/stylelib",
+      "tag": "data",
+      "subproject": null,
+      "exclude_dirs": [],
+      "exclude_files": []
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/baseline_images": {
+      "destination": "{py_platlib}/matplotlib/tests/baseline_images",
+      "tag": "tests",
+      "subproject": null,
+      "exclude_dirs": [],
+      "exclude_files": []
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/matplotlib/tests/tinypages": {
+      "destination": "{py_platlib}/matplotlib/tests/tinypages",
+      "tag": "tests",
+      "subproject": null,
+      "exclude_dirs": [],
+      "exclude_files": []
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/mpl_toolkits/axes_grid1/tests/baseline_images": {
+      "destination": "{py_platlib}/mpl_toolkits/axes_grid1/tests/baseline_images",
+      "tag": "tests",
+      "subproject": null,
+      "exclude_dirs": [],
+      "exclude_files": []
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/mpl_toolkits/axisartist/tests/baseline_images": {
+      "destination": "{py_platlib}/mpl_toolkits/axisartist/tests/baseline_images",
+      "tag": "tests",
+      "subproject": null,
+      "exclude_dirs": [],
+      "exclude_files": []
+    },
+    "/data/data/com.termux/files/home/matplotlib/lib/mpl_toolkits/mplot3d/tests/baseline_images": {
+      "destination": "{py_platlib}/mpl_toolkits/mplot3d/tests/baseline_images",
+      "tag": "tests",
+      "subproject": null,
+      "exclude_dirs": [],
+      "exclude_files": []
+    }
+  }
+}

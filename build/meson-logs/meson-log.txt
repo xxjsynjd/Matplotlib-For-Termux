@@ -1,0 +1,193 @@
+Build started at 2026-11-07T19:06:36.740592
+Main binary: /data/data/com.termux/files/usr/bin/python3.11
+Build Options: -Dbuildtype=release -Db_ndebug=if-release -Db_vscrt=md --native-file=/data/data/com.termux/files/home/matplotlib/build/meson-python-native-file.ini
+Python system: Linux
+The Meson build system
+Version: 1.12.1
+Source dir: /data/data/com.termux/files/home/matplotlib
+Build dir: /data/data/com.termux/files/home/matplotlib/build
+Build type: native build
+Program python3 found: YES (/data/data/com.termux/files/usr/bin/python3)
+Running command: /data/data/com.termux/files/usr/bin/python3 -m setuptools_scm
+--- stdout ---
+0.0+UNKNOWN
+
+--- stderr ---
+/data/data/com.termux/files/usr/lib/python3.14/site-packages/vcs_versioning/_fallback_workdir.py:248: UserWarning: git archive did not support describe output
+  return archival_to_version(data, config)
+/data/data/com.termux/files/usr/lib/python3.14/site-packages/vcs_versioning/_fallback_workdir.py:248: UserWarning: unprocessed git archival found (no export subst applied)
+  return archival_to_version(data, config)
+
+
+Project name: matplotlib
+Project version: 0.0+UNKNOWN
+C compiler for the host machine: /data/data/com.termux/files/usr/bin/ccache cc (clang 21.1.8 "clang version 21.1.8")
+C linker for the host machine: cc ld.lld 21.1.8
+-----------
+Detecting archiver via: `llvm-ar-21 --version` -> [Errno 2] No such file or directory: 'llvm-ar-21'
+-----------
+Detecting archiver via: `llvm-ar --version` -> 0
+stdout:
+LLVM (http://llvm.org/):
+  LLVM version 21.1.8
+  Optimized build.
+-----------
+C++ compiler for the host machine: /data/data/com.termux/files/usr/bin/ccache c++ (clang 21.1.8 "clang version 21.1.8")
+C++ linker for the host machine: c++ ld.lld 21.1.8
+C compiler for the build machine: /data/data/com.termux/files/usr/bin/ccache cc (clang 21.1.8 "clang version 21.1.8")
+C linker for the build machine: cc ld.lld 21.1.8
+C++ compiler for the build machine: /data/data/com.termux/files/usr/bin/ccache c++ (clang 21.1.8 "clang version 21.1.8")
+C++ linker for the build machine: c++ ld.lld 21.1.8
+Build machine cpu family: aarch64
+Build machine cpu: aarch64
+Host machine cpu family: aarch64
+Host machine cpu: aarch64
+Target machine cpu family: aarch64
+Target machine cpu: aarch64
+Program python found: YES (/data/data/com.termux/files/usr/bin/python3.14)
+Dependency pybind11 for host machine found: YES 3.1.0 (cached)
+
+Executing subproject freetype-2.6.1 for machine: host 
+
+Project name: freetype2
+Project version: 2.6.1
+C compiler for the host machine: /data/data/com.termux/files/usr/bin/ccache cc (clang 21.1.8 "clang version 21.1.8")
+C linker for the host machine: cc ld.lld 21.1.8
+C compiler for the build machine: /data/data/com.termux/files/usr/bin/ccache cc (clang 21.1.8 "clang version 21.1.8")
+C linker for the build machine: cc ld.lld 21.1.8
+Using cached compile:
+Cached command line:  cc /data/data/com.termux/files/home/matplotlib/build/meson-private/tmpm9g2z2gr/testfile.c -E -P -D_FILE_OFFSET_BITS=64 -P -O0 -U_FORTIFY_SOURCE -Werror=implicit-function-declaration 
+
+Code:
+ 
+        #ifdef __has_include
+         #if !__has_include("unistd.h")
+          #error "Header 'unistd.h' could not be found"
+         #endif
+        #else
+         #include <unistd.h>
+        #endif
+Cached compiler stdout:
+ 
+
+Cached compiler stderr:
+ 
+Has header "unistd.h" : YES (cached)
+Using cached compile:
+Cached command line:  cc /data/data/com.termux/files/home/matplotlib/build/meson-private/tmpqclaft0g/testfile.c -E -P -D_FILE_OFFSET_BITS=64 -P -O0 -U_FORTIFY_SOURCE -Werror=implicit-function-declaration 
+
+Code:
+ 
+        #ifdef __has_include
+         #if !__has_include("fcntl.h")
+          #error "Header 'fcntl.h' could not be found"
+         #endif
+        #else
+         #include <fcntl.h>
+        #endif
+Cached compiler stdout:
+ 
+
+Cached compiler stderr:
+ 
+Has header "fcntl.h" : YES (cached)
+Using cached compile:
+Cached command line:  cc /data/data/com.termux/files/home/matplotlib/build/meson-private/tmp243j88tn/testfile.c -E -P -D_FILE_OFFSET_BITS=64 -P -O0 -U_FORTIFY_SOURCE -Werror=implicit-function-declaration 
+
+Code:
+ 
+        #ifdef __has_include
+         #if !__has_include("stdint.h")
+          #error "Header 'stdint.h' could not be found"
+         #endif
+        #else
+         #include <stdint.h>
+        #endif
+Cached compiler stdout:
+ 
+
+Cached compiler stderr:
+ 
+Has header "stdint.h" : YES (cached)
+Configuring ftconfig.h using configuration
+Configuring ftoption.h using configuration
+Build targets in project: 3
+Subproject freetype-2.6.1 finished.
+
+
+Executing subproject qhull for machine: host 
+
+Project name: qhull
+Project version: 8.0.2
+C compiler for the host machine: /data/data/com.termux/files/usr/bin/ccache cc (clang 21.1.8 "clang version 21.1.8")
+C linker for the host machine: cc ld.lld 21.1.8
+C compiler for the build machine: /data/data/com.termux/files/usr/bin/ccache cc (clang 21.1.8 "clang version 21.1.8")
+C linker for the build machine: cc ld.lld 21.1.8
+Build targets in project: 4
+Subproject qhull finished.
+
+Running command: /data/data/com.termux/files/usr/bin/python3.14 -c 'import os
+import numpy as np
+try:
+    incdir = os.path.relpath(np.get_include())
+except Exception:
+    incdir = np.get_include()
+print(incdir)'
+--- stdout ---
+../../../usr/lib/python3.14/site-packages/numpy/_core/include
+
+--- stderr ---
+
+
+Running command: /data/data/com.termux/files/usr/bin/python3.14 -c 'import os; print(os.devnull)'
+--- stdout ---
+/dev/null
+
+--- stderr ---
+
+
+Dependency dl for host machine found: YES unknown (cached)
+Configuring _version.py using configuration
+Program /data/data/com.termux/files/home/matplotlib/tools/generate_matplotlibrc.py found: YES (/data/data/com.termux/files/home/matplotlib/tools/generate_matplotlibrc.py)
+Build targets in project: 14
+
+matplotlib 0.0+UNKNOWN
+
+  Subprojects (for host machine)
+    freetype-2.6.1: YES
+    qhull         : YES
+
+  User defined options
+    Native files  : /data/data/com.termux/files/home/matplotlib/build/meson-python-native-file.ini
+    b_ndebug      : if-release
+    b_vscrt       : md
+    buildtype     : release
+
+Found ninja-1.13.2 at /data/data/com.termux/files/usr/bin/ninja
+Running compile:
+Working directory:  /data/data/com.termux/files/usr/tmp/tmp66vt85wq
+Code:
+int i = static_cast<int>(0);
+-----------
+Command line: `c++ /data/data/com.termux/files/usr/tmp/tmp66vt85wq/testfile.cpp -o /data/data/com.termux/files/usr/tmp/tmp66vt85wq/output.obj -D_FILE_OFFSET_BITS=64 -c -std=c++17` -> 0
+Compiler accepts -std=c++17: YES
+Running compile:
+Working directory:  /data/data/com.termux/files/home/matplotlib/build/meson-private/tmpc0a98iyx
+Code:
+
+-----------
+Command line: `cc /data/data/com.termux/files/home/matplotlib/build/meson-private/tmpc0a98iyx/testfile.c -o /data/data/com.termux/files/home/matplotlib/build/meson-private/tmpc0a98iyx/output.obj -c -D_FILE_OFFSET_BITS=64 -O0 -U_FORTIFY_SOURCE -Werror=implicit-function-declaration -Werror=unknown-warning-option -Werror=unused-command-line-argument -Werror=ignored-optimization-argument --print-search-dirs` -> 0
+stdout:
+programs: =/data/data/com.termux/files/usr/bin:/data/data/com.termux/files/usr/bin/../../usr/lib/gcc/aarch64-linux-android/15.2.0/../../../../aarch64-linux-android/bin
+libraries: =/data/data/com.termux/files/usr/lib/clang/21:/data/data/com.termux/files/usr/bin/../../usr/lib/gcc/aarch64-linux-android/15.2.0:/data/data/com.termux/files/usr/bin/../../usr/lib/gcc/aarch64-linux-android/15.2.0/../../../../lib64:/data/data/com.termux/files/usr/bin/../../usr/lib/aarch64-linux-android:/data/data/com.termux/files/usr/bin/../../usr/lib/gcc/aarch64-linux-android/15.2.0/../../../../aarch64-linux-android/lib:/data/data/com.termux/files/usr/bin/../../usr/lib:/data/data/com.termux/files/usr/bin/../../usr/aarch64-linux-android/lib:/system/lib64
+-----------
+Running compile:
+Working directory:  /data/data/com.termux/files/home/matplotlib/build/meson-private/tmpvo570t34
+Code:
+
+-----------
+Command line: `c++ /data/data/com.termux/files/home/matplotlib/build/meson-private/tmpvo570t34/testfile.cpp -o /data/data/com.termux/files/home/matplotlib/build/meson-private/tmpvo570t34/output.obj -c -D_FILE_OFFSET_BITS=64 -O0 -U_FORTIFY_SOURCE -fpermissive -Werror=implicit-function-declaration -Werror=unknown-warning-option -Werror=unused-command-line-argument -Werror=ignored-optimization-argument --print-search-dirs` -> 0
+stdout:
+programs: =/data/data/com.termux/files/usr/bin:/data/data/com.termux/files/usr/bin/../../usr/lib/gcc/aarch64-linux-android/15.2.0/../../../../aarch64-linux-android/bin
+libraries: =/data/data/com.termux/files/usr/lib/clang/21:/data/data/com.termux/files/usr/bin/../../usr/lib/gcc/aarch64-linux-android/15.2.0:/data/data/com.termux/files/usr/bin/../../usr/lib/gcc/aarch64-linux-android/15.2.0/../../../../lib64:/data/data/com.termux/files/usr/bin/../../usr/lib/aarch64-linux-android:/data/data/com.termux/files/usr/bin/../../usr/lib/gcc/aarch64-linux-android/15.2.0/../../../../aarch64-linux-android/lib:/data/data/com.termux/files/usr/bin/../../usr/lib:/data/data/com.termux/files/usr/bin/../../usr/aarch64-linux-android/lib:/system/lib64
+-----------

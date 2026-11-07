@@ -1,0 +1,52 @@
+[
+  {
+    "name": "python-3.14",
+    "type": "pkgconfig",
+    "version": "3.14",
+    "compile_args": [
+      "-I/data/data/com.termux/files/usr/include/python3.14"
+    ],
+    "link_args": [
+      "/data/data/com.termux/files/usr/lib/libpython3.14.so"
+    ],
+    "include_directories": [],
+    "sources": [],
+    "extra_files": [],
+    "dependencies": [],
+    "depends": [],
+    "meson_variables": []
+  },
+  {
+    "name": "pybind11",
+    "type": "config-tool",
+    "version": "3.1.0",
+    "compile_args": [
+      "-I/data/data/com.termux/files/usr/include/python3.11",
+      "-I/data/data/com.termux/files/usr/lib/python3.11/site-packages/pybind11/include"
+    ],
+    "link_args": [],
+    "include_directories": [],
+    "sources": [],
+    "extra_files": [],
+    "dependencies": [],
+    "depends": [],
+    "meson_variables": [
+      "pybind11_dep"
+    ]
+  },
+  {
+    "name": "dl",
+    "type": "builtin",
+    "version": "unknown",
+    "compile_args": [],
+    "link_args": [],
+    "include_directories": [],
+    "sources": [],
+    "extra_files": [],
+    "dependencies": [],
+    "depends": [],
+    "meson_variables": [
+      "dl"
+    ]
+  }
+]
