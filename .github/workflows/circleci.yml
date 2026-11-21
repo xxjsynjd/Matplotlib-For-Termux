@@ -28,7 +28,7 @@ jobs:
     runs-on: ubuntu-latest
     name: Post warnings/errors as review
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
       - name: Fetch result artifacts
         id: fetch-artifacts
